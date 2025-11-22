@@ -1,0 +1,401 @@
+id_evaluacion,id_paciente,fecha,latencia_emg_ms,fuerza_prension_kg,severidad,observaciones
+1,69,2025-10-13,6.12,22.0,Leve,Report owner type fight face president project.
+2,65,2025-10-10,6.47,28.0,Severo,Whom affect nation center middle want.
+3,50,2025-05-07,4.9,33.6,Leve,It rule meet the.
+4,22,2023-12-30,6.12,32.7,Moderado,Century stay politics bad.
+5,59,2024-10-24,6.02,11.5,Severo,Major political available executive between member box five.
+6,17,2024-05-24,6.06,18.0,Moderado,Together fly line north.
+7,52,2024-03-14,7.18,28.1,Leve,Ago represent worker laugh.
+8,146,2025-06-16,2.72,11.4,Leve,Quality appear sit main would opportunity special.
+9,188,2025-08-31,3.59,16.1,Leve,Letter sport response safe her give.
+10,92,2025-10-19,6.51,22.4,Leve,Politics without late remain social.
+11,195,2025-05-31,3.03,26.3,Moderado,Idea again skin success.
+12,111,2025-07-17,5.89,10.2,Leve,West with phone late often.
+13,159,2024-01-17,3.47,22.8,Leve,Daughter certain performance white boy seat.
+14,88,2024-08-17,5.24,24.0,Leve,Hold method throughout gun.
+15,65,2024-12-11,5.03,25.7,Severo,Management full form according with kid.
+16,36,2023-12-10,5.03,14.9,Moderado,Along data structure everything series reach operation.
+17,128,2024-03-07,4.94,15.2,Moderado,Wish usually admit.
+18,179,2024-10-07,6.34,11.8,Leve,No media box structure fear during wind indicate.
+19,124,2024-02-07,6.07,30.0,Leve,Color left party finally account performance.
+20,90,2025-11-14,7.22,29.7,Leve,Grow world guy say professor.
+21,194,2025-07-12,4.32,20.1,Leve,Customer the wide spring.
+22,112,2025-07-01,4.55,34.3,Severo,Third move story prove.
+23,35,2024-07-27,2.43,18.1,Leve,Place senior leave career security group understand majority.
+24,76,2024-06-14,2.66,32.6,Leve,Again effect usually music any education often.
+25,195,2025-04-01,2.64,34.9,Severo,Subject hear front.
+26,118,2024-03-31,7.01,25.8,Moderado,Central right perform lot policy recognize quickly.
+27,133,2025-01-30,6.23,33.3,Moderado,Well evidence instead idea.
+28,37,2025-08-25,4.69,24.9,Leve,Enter Mrs factor indicate never official.
+29,118,2025-11-07,4.56,13.0,Leve,Hour specific move outside operation meeting.
+30,176,2023-11-29,4.07,28.6,Leve,Trial billion thought both ten degree.
+31,33,2025-04-12,6.78,34.6,Leve,Hard billion possible night church life.
+32,61,2025-07-18,3.22,29.6,Leve,Myself level about serious item especially.
+33,113,2024-02-14,7.55,28.5,Leve,Billion operation white show.
+34,74,2023-11-22,7.59,15.6,Leve,Shake investment identify stage.
+35,163,2025-08-14,4.27,33.4,Moderado,Now American special they take nor.
+36,49,2024-12-10,3.56,29.2,Leve,Natural particular girl truth nature.
+37,181,2025-04-04,5.63,30.6,Moderado,Hour model lose act social campaign team.
+38,197,2025-06-20,3.2,12.1,Leve,Fear because west.
+39,121,2025-08-16,2.45,11.8,Leve,Hot probably lot any college.
+40,29,2024-10-08,2.06,34.7,Severo,Drop rate leg economy cause energy reflect.
+41,74,2025-09-25,3.13,19.0,Moderado,Support leader happy production.
+42,136,2024-06-21,7.3,27.5,Leve,Space their religious television bit new at.
+43,62,2025-07-12,5.96,16.1,Leve,Cell report until two.
+44,85,2024-06-12,2.77,24.2,Severo,Positive rate read give.
+45,48,2024-01-15,4.09,17.6,Severo,Use degree form adult their care.
+46,105,2024-04-19,2.74,30.8,Moderado,Always manager almost mother land vote project.
+47,182,2025-02-23,4.48,18.7,Moderado,Mention they eye future.
+48,161,2024-07-27,6.91,27.0,Leve,Office lay usually central girl son why.
+49,4,2025-06-18,4.59,22.4,Severo,Avoid hair church simple color environmental.
+50,163,2025-05-07,6.11,14.9,Leve,Effect job effort forward.
+51,170,2024-07-09,7.67,13.5,Moderado,Sea defense stand fill help mission sit clear.
+52,154,2025-01-07,2.07,34.8,Moderado,Stuff cultural agent remain.
+53,158,2023-12-07,3.94,27.7,Leve,Offer education trouble down type American.
+54,119,2025-02-11,4.75,20.2,Severo,Ever generation watch now bed cold position.
+55,155,2025-11-12,4.52,10.6,Moderado,Item read eat structure peace man.
+56,182,2025-05-06,2.16,15.2,Severo,Reality standard eye cold new either machine.
+57,22,2025-07-14,7.27,26.7,Leve,End forward without.
+58,75,2024-01-11,5.62,19.6,Leve,Paper wife oil business room officer feeling.
+59,28,2024-02-29,2.35,13.5,Moderado,Cost might finally.
+60,187,2024-08-03,2.84,16.6,Moderado,Quality job him apply policy strategy recent.
+61,8,2024-03-08,5.27,16.2,Moderado,Fast stop piece decade ground toward quickly performance.
+62,62,2024-01-14,3.95,18.7,Leve,Painting employee guess maintain.
+63,100,2024-08-31,5.27,30.0,Leve,Trouble cost meet national market popular expert.
+64,119,2024-01-28,7.68,10.1,Leve,Eight term however law.
+65,52,2024-09-06,3.51,17.3,Severo,Whose stage American development arrive.
+66,163,2025-04-14,3.84,31.8,Severo,Save most some with.
+67,175,2024-10-21,3.42,29.9,Leve,Identify town eye character certainly deal wide.
+68,107,2024-06-05,7.69,10.4,Leve,Hard know despite teach he important carry.
+69,53,2025-10-17,5.77,24.9,Moderado,Every state put several else.
+70,147,2025-07-29,2.91,29.4,Leve,Evening sit before indicate politics old than see.
+71,24,2024-10-09,7.66,12.1,Severo,Stock view loss hotel rich operation garden.
+72,132,2024-07-26,3.54,31.4,Severo,Mother research speech six again.
+73,124,2025-11-01,5.3,26.9,Moderado,Both interview rest member certain eat history.
+74,71,2025-06-19,2.42,28.4,Moderado,Science subject join.
+75,25,2025-02-28,2.65,32.0,Leve,Future coach perhaps environment writer case dream.
+76,52,2024-01-26,7.8,21.1,Leve,Top bank at program.
+77,7,2025-07-04,7.46,25.3,Leve,Do cause girl nation eye benefit.
+78,126,2024-08-18,4.81,23.8,Severo,Election put news both cost foreign physical.
+79,173,2024-04-09,2.44,12.2,Leve,Agency rate state instead attention smile.
+80,88,2024-11-01,4.11,19.0,Moderado,Pressure both produce your parent.
+81,37,2024-05-26,3.01,10.2,Severo,Event produce civil line way.
+82,86,2025-08-07,3.21,24.5,Leve,Right amount once move somebody TV.
+83,15,2024-01-18,6.18,18.5,Severo,Expect deal recently president contain than that open.
+84,84,2024-08-15,3.44,13.5,Leve,Require husband offer wide none brother stop.
+85,86,2024-10-03,3.63,29.3,Moderado,Close spring star from type easy.
+86,41,2025-09-27,4.59,27.6,Leve,Develop either little.
+87,127,2024-03-16,7.3,33.3,Moderado,Box never by animal only reflect.
+88,28,2025-01-29,2.57,32.1,Leve,Person level local difficult despite perhaps career.
+89,43,2025-05-27,6.55,33.9,Leve,Respond network hit record its side hot.
+90,50,2025-08-12,7.22,24.2,Severo,Improve dinner when although part structure.
+91,199,2025-08-06,5.0,18.4,Leve,Ok when they check certainly upon read.
+92,145,2025-05-04,3.02,34.5,Moderado,Hand design seek sell.
+93,17,2025-10-02,7.44,14.8,Moderado,Who glass up animal painting.
+94,109,2025-01-17,6.49,10.3,Moderado,After back shoulder evening.
+95,64,2024-12-27,3.6,25.6,Moderado,Close baby bank Mr of.
+96,126,2025-05-15,3.8,20.9,Leve,Southern maintain however shoulder kind alone responsibility building.
+97,157,2024-04-09,7.65,19.5,Moderado,Which lot behind fire knowledge help.
+98,188,2024-09-16,2.91,22.2,Leve,Behavior peace sound notice page reason key word.
+99,32,2024-04-22,4.71,27.3,Leve,Society will never increase prove answer room.
+100,162,2024-10-23,5.2,15.8,Moderado,Program management minute task every nature close.
+101,6,2025-01-27,7.87,30.8,Leve,Meet line above site.
+102,14,2024-07-20,6.16,24.4,Leve,Season live soldier sound.
+103,9,2024-04-13,7.36,26.3,Leve,Turn argue exactly exist success market drive kid.
+104,193,2025-06-19,3.12,30.7,Moderado,Run girl religious local.
+105,52,2025-10-11,5.91,18.5,Severo,Social answer box miss.
+106,183,2025-09-19,3.63,16.8,Leve,Part anything respond figure dream.
+107,74,2024-08-13,7.45,28.4,Leve,Whether pull would yet sit form age.
+108,5,2025-11-07,4.74,28.8,Moderado,Court often loss economy.
+109,175,2023-12-02,6.51,12.8,Moderado,Young him discover them want across.
+110,71,2025-05-31,5.28,22.2,Leve,Room ahead sort role range really.
+111,109,2024-11-27,7.78,14.4,Leve,Success above others world follow owner recognize.
+112,172,2024-01-26,3.08,29.5,Leve,Both realize high tend face much baby.
+113,88,2024-12-28,3.05,25.5,Moderado,Push left along place somebody them.
+114,26,2025-04-08,6.51,30.9,Leve,Group partner next.
+115,86,2025-03-16,2.65,32.2,Moderado,Collection modern democratic effect modern.
+116,25,2025-09-09,2.65,11.5,Leve,Wait more center fly hospital.
+117,157,2025-06-13,2.94,18.3,Moderado,Trip those job assume new include sign part.
+118,152,2025-09-18,7.16,14.4,Severo,Age benefit them out in computer technology.
+119,165,2025-01-30,5.1,26.7,Leve,Effort allow ever.
+120,92,2024-01-05,4.69,22.3,Moderado,Series possible across government actually none.
+121,19,2024-05-15,6.75,29.5,Moderado,Road director month individual rise chance player.
+122,26,2025-02-08,5.57,33.9,Leve,Peace court short ago before white.
+123,24,2025-08-04,5.68,10.6,Moderado,Blood include recently smile.
+124,169,2025-06-17,4.77,17.8,Leve,Order international pass look including else government Republican.
+125,124,2025-05-22,5.78,25.7,Leve,Meet defense important ready he.
+126,188,2024-11-15,5.66,28.8,Moderado,We development machine when thing guess everybody discover.
+127,109,2024-11-22,3.57,22.8,Leve,East American billion expert away.
+128,176,2024-01-24,2.03,17.0,Severo,Forget will development special social.
+129,198,2025-09-10,2.38,31.7,Leve,Budget him player consumer commercial.
+130,157,2023-11-27,5.48,30.7,Leve,Should manage debate past list town beat.
+131,107,2024-05-25,2.46,15.0,Leve,Special police which both.
+132,153,2024-08-20,3.97,20.0,Severo,Boy million fly public participant.
+133,87,2025-04-10,5.3,11.9,Leve,Race blood billion court us as perform.
+134,25,2025-10-23,7.77,31.0,Moderado,Weight budget fly maybe similar majority risk.
+135,52,2024-12-04,7.68,10.8,Moderado,Voice behavior data against whose lot.
+136,197,2024-03-12,4.57,26.0,Moderado,True kind reflect much green wide.
+137,43,2025-09-23,6.64,26.2,Leve,Participant decide middle play best chance care picture.
+138,35,2025-09-28,4.29,11.1,Leve,Student beyond executive nation student statement.
+139,100,2024-07-12,2.49,30.5,Leve,Way drug key prove company able.
+140,82,2025-03-30,6.11,28.9,Leve,Better price similar beautiful nearly poor.
+141,181,2023-11-27,7.46,17.8,Leve,Free level meeting few finally feel where.
+142,51,2024-12-05,7.46,25.9,Moderado,Painting dark upon city American.
+143,155,2024-09-30,7.93,33.0,Leve,Draw other ago accept last owner compare.
+144,189,2025-03-23,4.99,16.0,Leve,Morning discussion whatever.
+145,96,2024-02-28,6.52,25.0,Moderado,Wrong ever step at majority medical report.
+146,115,2025-03-06,7.04,30.6,Leve,Section perform station impact hospital chair.
+147,34,2025-07-13,7.68,29.4,Severo,Short local above indicate official gas.
+148,92,2024-11-25,3.16,12.0,Severo,Teacher blue boy town seek pick arm.
+149,159,2024-12-12,5.55,17.5,Leve,Book international never management approach.
+150,149,2024-10-13,4.63,31.7,Moderado,Impact operation focus hour attorney actually let.
+151,182,2025-03-20,6.45,17.9,Severo,Tree enter standard anyone someone agree history.
+152,6,2024-11-30,5.62,20.5,Leve,Miss Democrat decision career number weight.
+153,17,2024-04-07,5.41,17.7,Moderado,Peace simply national seek live.
+154,100,2025-03-15,2.2,10.4,Leve,He build consumer investment interest strategy himself.
+155,21,2024-08-17,5.56,11.1,Moderado,Real project computer.
+156,27,2024-09-20,2.79,25.5,Leve,Oil him store each.
+157,45,2023-12-06,4.52,13.9,Moderado,Everybody system across occur four strong mean federal.
+158,112,2025-09-23,5.52,13.5,Moderado,Number soldier structure relate fast young car.
+159,24,2023-12-28,7.55,15.7,Moderado,Really brother until size.
+160,162,2025-05-19,5.97,26.2,Moderado,Reach especially world carry why.
+161,44,2024-05-21,2.0,32.3,Leve,Point set now late commercial on him.
+162,163,2024-12-28,6.06,31.2,Leve,Where any history other.
+163,152,2025-03-13,6.62,12.6,Leve,Up how knowledge cover good professor avoid.
+164,80,2025-05-17,6.56,18.6,Leve,Ground side all down many.
+165,132,2023-12-28,7.91,10.9,Leve,Significant everybody others court measure.
+166,47,2024-06-06,3.54,15.9,Moderado,Customer suddenly hard half state song reality.
+167,123,2025-03-16,7.34,16.7,Moderado,Thing despite artist.
+168,180,2025-05-15,4.6,13.5,Leve,Identify find hospital north east.
+169,23,2024-04-08,3.99,33.7,Leve,Sea common pretty hand young central.
+170,118,2023-12-18,5.21,21.5,Moderado,Sit yeah paper actually.
+171,107,2025-03-18,6.59,32.8,Severo,Friend particular less and model amount.
+172,74,2024-03-29,6.32,34.8,Severo,On move opportunity style.
+173,13,2024-08-02,5.13,23.1,Leve,Join his follow of air.
+174,78,2024-02-19,7.99,12.3,Leve,Six year music suffer public support.
+175,169,2024-11-04,3.02,14.3,Leve,Business others candidate bill half defense until.
+176,189,2025-09-14,4.34,23.9,Severo,Strong challenge you but serious relationship father.
+177,123,2025-08-06,5.88,16.5,Moderado,We data build strategy different.
+178,113,2025-01-26,7.53,17.8,Severo,Source three knowledge.
+179,157,2025-08-13,7.07,22.7,Moderado,Condition class activity soldier this.
+180,86,2025-03-29,7.24,32.2,Leve,Never agree environment doctor and operation.
+181,174,2024-02-10,7.2,24.1,Moderado,Writer watch meeting power policy.
+182,185,2025-01-22,3.99,17.3,Leve,Thousand boy others state police.
+183,7,2025-01-20,4.94,34.9,Leve,Daughter soldier certainly part officer speech.
+184,96,2023-12-17,3.32,12.6,Leve,Room company put speech course western drive.
+185,159,2025-06-12,3.69,20.9,Leve,Hit from remember agent adult over probably.
+186,72,2025-11-18,4.33,14.7,Moderado,Describe piece energy area hear apply agency win.
+187,121,2024-07-04,3.14,33.9,Severo,Item organization it wide.
+188,110,2025-02-14,4.89,18.0,Moderado,Against carry foreign huge someone.
+189,155,2024-05-23,3.6,12.2,Severo,Together field happen.
+190,152,2025-01-09,3.06,27.0,Leve,National media road lawyer win near.
+191,130,2025-07-31,7.71,15.8,Moderado,Man story management choose product attorney open.
+192,138,2024-02-15,2.92,21.0,Moderado,Suddenly understand question develop.
+193,44,2024-09-05,6.59,26.7,Moderado,Box draw pull window identify our occur want.
+194,154,2024-10-20,6.92,10.6,Moderado,Product leader final citizen drop research.
+195,117,2024-12-14,7.15,11.1,Moderado,Man soldier group trial involve lawyer affect check.
+196,170,2025-02-03,5.07,17.5,Leve,Model with instead low.
+197,7,2024-07-18,7.74,28.6,Leve,Character reflect cost.
+198,128,2025-04-14,6.9,23.9,Moderado,Suffer law to most.
+199,44,2025-09-21,4.85,12.0,Severo,Anything begin as direction production film audience other.
+200,20,2024-02-02,7.85,12.5,Leve,Amount late see accept write.
+201,81,2025-09-28,6.88,20.7,Moderado,Let floor difference fact build.
+202,108,2025-02-10,5.46,23.5,Severo,Stand marriage join really.
+203,162,2025-02-17,7.37,19.7,Leve,Answer few idea could national rich good.
+204,154,2024-10-24,4.78,23.9,Severo,Improve compare once both.
+205,152,2024-06-05,5.8,24.6,Severo,Notice memory more start main one price.
+206,169,2023-12-21,4.47,15.6,Leve,Cultural business audience time bill civil term.
+207,29,2024-06-29,4.38,11.5,Leve,Official thank machine price behind either speech.
+208,99,2025-02-03,7.03,30.1,Severo,Follow develop entire stay more.
+209,32,2024-11-23,3.46,34.3,Severo,Home citizen fire read short.
+210,160,2023-12-25,6.49,28.2,Moderado,Thousand big nature type its bit chance.
+211,156,2024-06-20,6.24,13.8,Leve,Instead give agreement woman his trade between.
+212,51,2025-02-26,5.82,29.3,Leve,Recently you some move factor.
+213,145,2024-08-24,5.55,32.3,Severo,Store body through.
+214,61,2024-01-12,6.99,22.7,Leve,Day mother example after.
+215,51,2025-09-22,6.94,12.4,Leve,Continue here forget year.
+216,135,2025-02-01,6.31,18.5,Leve,Summer entire leader work machine within.
+217,40,2024-12-24,7.82,15.0,Severo,Really myself itself better ago toward.
+218,197,2024-07-03,6.75,30.2,Leve,Still out maybe evening.
+219,10,2025-03-23,7.78,20.4,Leve,Effect team he remain dream.
+220,165,2024-12-07,2.75,20.3,Leve,Stuff focus to collection company store.
+221,190,2025-07-13,5.9,16.6,Leve,Memory during air education doctor name daughter.
+222,71,2024-02-27,6.16,34.4,Leve,Sit factor really.
+223,81,2025-08-09,2.57,31.9,Moderado,Around heart attention in whole play.
+224,165,2025-04-19,7.02,18.0,Leve,Three radio red writer between.
+225,151,2025-02-08,7.93,14.9,Moderado,Doctor level candidate human case career.
+226,97,2024-06-06,6.3,12.9,Leve,Meet or threat soon.
+227,85,2023-12-03,6.47,17.0,Leve,Once price dog.
+228,108,2025-07-30,7.77,26.9,Moderado,Leader mean plan into.
+229,157,2025-04-20,2.29,29.2,Moderado,Leave finally everybody senior.
+230,23,2025-01-01,5.91,21.2,Severo,Land oil all well.
+231,20,2025-10-05,6.95,29.5,Leve,Ground fact success leader.
+232,135,2024-04-07,6.64,33.9,Moderado,First perhaps others safe.
+233,185,2024-08-11,2.13,11.3,Moderado,Health significant course forward born system environment crime.
+234,15,2024-03-15,4.01,14.2,Leve,Relationship hear smile would.
+235,101,2025-02-07,5.2,26.9,Leve,Tax system front down thank center.
+236,6,2025-08-21,7.92,13.2,Moderado,Street finally must economic forget.
+237,130,2025-07-12,6.23,32.6,Severo,Technology send check decision natural.
+238,96,2025-08-21,2.41,10.8,Moderado,Character organization happen trip fund page age gun.
+239,59,2024-09-10,5.64,33.4,Leve,Work factor another official bit process.
+240,161,2025-02-27,5.73,19.5,Leve,Employee future including business nearly allow.
+241,179,2025-08-07,5.27,28.2,Leve,Phone show chance TV management see.
+242,125,2025-11-12,6.56,10.3,Moderado,Provide then course could collection tonight kind.
+243,67,2024-01-07,4.6,30.9,Moderado,Nothing minute decade charge.
+244,168,2025-05-02,2.65,25.9,Leve,Simple meeting near education place everything hand dream.
+245,55,2024-11-14,4.31,13.2,Severo,Trial drop mind nature.
+246,112,2023-12-16,6.17,28.5,Moderado,Season shoulder home do street.
+247,93,2024-03-16,7.53,15.8,Leve,Wind side law full next.
+248,59,2024-08-02,5.14,30.4,Severo,In happy chance.
+249,113,2025-06-30,6.52,14.3,Leve,Now threat American certainly summer.
+250,15,2024-04-23,3.79,32.0,Leve,Partner home add anyone.
+251,156,2024-11-21,4.43,26.8,Moderado,Trip hospital art can.
+252,142,2023-12-05,6.3,16.4,Moderado,All we serve reach.
+253,186,2024-12-29,7.77,34.8,Leve,Room yet trip section human mean key moment.
+254,117,2024-04-01,2.28,33.9,Severo,Maintain black other deep environment off fear.
+255,129,2025-10-27,6.69,29.4,Leve,Feel my admit sit.
+256,9,2024-03-29,7.26,20.2,Leve,White ready laugh fish certain.
+257,89,2025-03-29,4.5,17.0,Moderado,Late represent clearly alone.
+258,82,2023-12-20,2.15,33.6,Moderado,Small culture billion front ever professor.
+259,169,2025-06-09,7.16,15.3,Moderado,Room would put pass.
+260,178,2025-09-05,4.22,11.6,Leve,About happen conference ago agreement respond.
+261,87,2025-02-12,3.31,11.2,Leve,Seem per former same already involve.
+262,17,2025-03-11,4.41,23.4,Moderado,Cold buy popular compare can.
+263,111,2024-05-19,5.11,11.4,Severo,Him open friend.
+264,67,2025-08-29,7.91,14.9,Leve,Suddenly support marriage.
+265,54,2024-10-26,4.63,18.4,Severo,It recent senior feeling market international.
+266,26,2024-09-15,2.69,16.2,Severo,Society example strong visit.
+267,112,2024-11-09,4.43,18.9,Leve,Seem detail design ahead green answer party.
+268,58,2024-06-13,6.44,11.2,Leve,Young every other state entire beat.
+269,78,2025-11-16,7.26,14.9,Leve,Work each season trade population end skin.
+270,191,2025-07-07,7.18,15.1,Severo,Spend quite like produce test beyond.
+271,182,2025-10-05,4.34,27.3,Severo,Between painting democratic risk high story the.
+272,10,2024-06-08,2.64,12.9,Leve,Very police deal road.
+273,153,2025-05-07,7.83,14.3,Moderado,Onto thank example live officer player.
+274,116,2024-06-01,3.25,23.3,Leve,Ability chair sign away lead within to.
+275,3,2023-12-19,5.97,17.4,Leve,Take young hit wind.
+276,49,2024-07-17,5.38,32.2,Moderado,Way religious late Mr staff sing question significant.
+277,190,2024-07-21,7.81,30.4,Leve,Certainly computer smile save fast.
+278,38,2024-03-09,4.64,27.2,Leve,Recent together data school level.
+279,134,2024-07-09,2.9,20.4,Leve,No seem dog smile less phone suggest modern.
+280,129,2024-07-12,3.03,34.9,Leve,Modern question inside stock stop lawyer finish.
+281,100,2024-11-10,2.75,25.0,Leve,Instead I check.
+282,102,2024-11-27,2.03,31.4,Moderado,Risk prevent hotel guess claim forward wish.
+283,123,2025-05-23,4.31,19.8,Leve,Involve yet begin building unit total deep.
+284,77,2024-06-09,5.4,28.2,Severo,Field people full big.
+285,76,2024-12-23,7.27,21.5,Moderado,Far relate which let.
+286,150,2024-01-20,5.07,14.5,Severo,Never model suggest write general begin understand.
+287,67,2025-05-12,4.79,30.5,Leve,Since prevent laugh along agree everyone brother suddenly.
+288,96,2023-12-02,2.81,29.7,Severo,Pull key response thought against trial.
+289,161,2025-05-26,7.42,12.7,Leve,Serve lawyer past important.
+290,44,2025-09-12,6.19,33.9,Severo,Inside him statement possible site which.
+291,11,2024-02-21,3.82,13.8,Severo,Subject tree father property page dinner those.
+292,48,2025-08-01,7.63,18.4,Moderado,Great relate behind within find.
+293,8,2024-02-08,5.69,29.9,Severo,They force field.
+294,156,2024-02-12,6.88,18.8,Leve,Common above threat yeah take reason box today.
+295,9,2025-04-14,3.92,12.0,Moderado,Here situation opportunity appear west score.
+296,169,2024-04-02,2.89,11.1,Severo,Material image knowledge everything exist.
+297,134,2024-07-23,2.39,24.8,Moderado,Our camera place two build foot dream.
+298,114,2025-05-23,4.3,28.9,Leve,Out stop about certainly.
+299,165,2025-04-21,3.3,31.3,Severo,Effect voice billion more only.
+300,98,2025-07-22,4.67,30.9,Leve,Recent PM my clearly question prevent.
+301,156,2025-05-29,2.65,18.9,Severo,Range manage agency any beautiful thing.
+302,12,2025-08-08,2.17,19.2,Moderado,Film likely what parent discuss.
+303,41,2025-09-08,2.09,33.9,Leve,Not travel most security writer certainly hot.
+304,155,2024-07-11,6.53,23.6,Leve,Exactly entire theory analysis last.
+305,177,2023-11-30,4.28,20.5,Leve,Successful arrive nothing.
+306,66,2024-08-07,2.66,15.3,Leve,City choose until national plan city ask.
+307,34,2024-08-06,3.51,26.7,Severo,Message remain expert soldier tough they billion.
+308,29,2025-07-07,4.13,26.8,Moderado,Fund hand process next share talk then.
+309,91,2025-03-17,7.98,15.8,Leve,Turn street quickly add charge environment defense describe.
+310,57,2025-08-20,3.1,20.2,Moderado,Street analysis listen we hair should.
+311,117,2024-05-21,5.08,12.8,Moderado,Cover view bed cold prevent land between.
+312,132,2025-03-07,4.19,14.9,Moderado,Offer minute someone return close partner firm.
+313,41,2025-02-13,3.38,25.4,Leve,Though west western approach music.
+314,14,2025-10-12,7.27,11.9,Moderado,Technology people see to high service design.
+315,24,2024-07-02,2.75,25.9,Leve,Big test tend bring entire.
+316,43,2024-07-03,2.68,30.7,Moderado,Stuff way rich many.
+317,115,2024-01-13,4.99,32.6,Leve,Table specific office debate country religious.
+318,48,2024-12-28,6.65,32.8,Leve,Especially pressure peace service fine a bank.
+319,24,2024-11-01,7.42,26.8,Leve,Friend be such apply outside alone respond.
+320,2,2025-08-13,3.45,26.7,Severo,Great simple financial again hot prepare who up.
+321,182,2024-11-07,6.88,29.4,Leve,Several help sport sister.
+322,49,2024-08-27,3.08,17.9,Severo,Administration big interesting benefit fear itself.
+323,115,2025-06-23,5.78,24.1,Severo,Better join them these.
+324,7,2024-02-24,3.25,22.0,Moderado,Black sort world itself traditional letter.
+325,164,2025-04-19,7.94,27.5,Leve,Future explain daughter support political quickly.
+326,54,2025-11-09,5.92,32.8,Leve,Popular land Congress behind up soon.
+327,40,2024-09-01,3.31,25.8,Moderado,Natural professor everyone measure player beat.
+328,137,2025-04-24,7.75,18.7,Leve,Seven soldier simply method toward finish.
+329,138,2024-12-20,4.98,32.0,Leve,Act house front.
+330,170,2025-07-02,4.28,29.0,Moderado,Star our education fine baby decide.
+331,35,2024-11-10,7.79,30.1,Moderado,Shake city find benefit cultural.
+332,62,2025-04-14,6.7,18.8,Moderado,These choose listen adult along tree reach itself.
+333,25,2023-12-25,5.22,11.3,Moderado,People conference out for other live.
+334,41,2024-05-25,3.58,11.5,Leve,Reveal exactly start stock.
+335,69,2024-02-03,2.2,23.0,Leve,Bill voice cup buy picture conference benefit.
+336,200,2025-03-18,7.02,17.7,Leve,Maybe human machine speech these buy difficult.
+337,101,2024-05-14,2.9,31.1,Leve,Poor cost there if full on however already.
+338,11,2025-07-19,5.62,29.6,Moderado,Before lay night offer.
+339,94,2024-08-08,7.98,11.0,Moderado,Not beat sure together another thank.
+340,46,2024-06-16,7.56,31.1,Moderado,Travel parent short.
+341,147,2025-11-20,4.12,10.1,Severo,East might movie attorney billion.
+342,139,2024-07-11,4.07,32.7,Leve,Finish parent box glass on allow blue.
+343,25,2024-01-20,7.47,14.2,Leve,Tough fly training left serious.
+344,200,2024-02-01,3.12,19.0,Moderado,Above play receive should their operation.
+345,79,2024-06-20,5.42,16.2,Leve,Key measure similar.
+346,41,2025-06-21,3.98,32.5,Leve,Quickly with soon.
+347,75,2025-02-26,5.65,23.5,Moderado,Approach ground all dream weight health me three.
+348,74,2025-03-11,3.44,17.0,Severo,Plant quality bed break move.
+349,124,2025-01-03,6.47,21.7,Leve,Thus thus century Democrat.
+350,177,2023-11-22,2.7,22.6,Leve,Surface power unit edge animal ok.
+351,120,2024-12-29,2.06,32.9,Severo,Perhaps maintain wonder bill hundred entire process.
+352,79,2024-02-07,2.54,24.0,Severo,In morning until top.
+353,14,2023-12-09,5.5,25.8,Leve,Talk also machine mission majority conference.
+354,200,2025-03-15,3.46,17.4,Moderado,Pressure decision beautiful money.
+355,134,2024-10-10,4.9,15.4,Moderado,Current kid road relate understand specific.
+356,71,2024-09-12,2.12,29.5,Moderado,Order list environment toward name remain me tough.
+357,10,2025-07-03,3.34,31.3,Leve,Shake guess next old reduce Mr.
+358,182,2023-12-17,4.56,10.0,Severo,Coach should perhaps music like.
+359,27,2024-01-22,5.61,16.3,Leve,Bill defense firm.
+360,24,2025-01-05,4.45,34.9,Moderado,Sit wrong training send three alone until.
+361,7,2025-06-12,7.8,13.6,Moderado,Good lot wind particularly majority.
+362,194,2025-09-17,4.76,27.6,Leve,Kitchen drop plan politics result rest.
+363,145,2025-10-01,5.73,30.6,Severo,Return station expect station current send kid standard.
+364,23,2025-11-21,3.32,30.7,Moderado,Very major put tell behind.
+365,34,2023-12-24,7.36,23.6,Moderado,Subject financial it which decide.
+366,177,2025-01-27,6.95,22.1,Leve,Anything pressure area may write while read student.
+367,111,2025-04-07,2.88,16.1,Moderado,Expect film talk green year off ever bank.
+368,102,2023-12-24,6.03,33.1,Leve,Work move reality why.
+369,33,2025-09-23,2.11,21.4,Moderado,Prevent if writer threat cup relate.
+370,37,2024-12-22,3.66,10.1,Leve,Control answer only actually choice.
+371,35,2023-11-22,4.13,14.6,Severo,Build involve alone training.
+372,198,2025-09-02,2.75,15.1,Leve,Contain environment since edge tree wish friend audience.
+373,154,2025-02-09,3.94,14.3,Severo,Teacher concern dog push.
+374,167,2024-02-14,2.92,27.7,Moderado,Court song record sister ask body.
+375,96,2024-09-23,6.06,33.5,Moderado,It read usually idea sound security.
+376,66,2025-03-18,2.66,30.7,Severo,Store reach law.
+377,47,2025-08-30,2.12,23.8,Leve,Offer into yet film.
+378,183,2025-07-13,2.69,15.8,Leve,Book third movie four single.
+379,23,2025-06-03,2.59,23.3,Leve,Answer heart meet campaign home.
+380,1,2024-11-22,5.97,16.0,Moderado,Clear successful training beyond own continue whole.
+381,31,2025-01-15,4.24,19.9,Moderado,Million lose story.
+382,95,2024-11-26,2.23,24.1,Severo,Energy if money medical able.
+383,94,2024-06-01,3.28,35.0,Moderado,Expect research according near last anything blue.
+384,135,2025-10-28,2.27,32.7,Moderado,Discussion art growth investment air.
+385,125,2024-09-14,7.39,23.8,Leve,Way church husband agree.
+386,199,2024-10-14,5.29,35.0,Leve,Southern investment over year explain enter.
+387,73,2024-07-20,3.21,23.3,Leve,Country floor rule popular.
+388,106,2024-03-07,6.13,20.2,Leve,Institution also understand.
+389,42,2024-03-10,4.91,19.4,Leve,Hold fund member will series five.
+390,82,2024-07-11,7.1,33.5,Leve,Some step on help.
+391,112,2025-06-28,2.44,13.7,Severo,Law can sport culture help approach.
+392,51,2024-08-13,4.53,32.3,Leve,Thus them space leg.
+393,132,2024-01-10,4.01,19.7,Moderado,Step claim benefit upon possible.
+394,180,2024-07-15,7.91,17.2,Moderado,Vote might claim.
+395,181,2024-05-15,3.96,15.4,Leve,Wait art able very agree scientist sea none.
+396,90,2024-11-25,7.73,16.3,Leve,Ball push dog candidate your owner front.
+397,158,2023-12-27,4.44,33.8,Moderado,Enter economic mother arm maintain activity brother.
+398,122,2024-11-10,6.67,24.8,Leve,Drug hit customer recently blue.
+399,45,2025-02-09,6.63,15.2,Leve,Huge idea fall room interesting.
+400,98,2025-11-20,3.95,28.2,Leve,Agent study environment model at local population good.

@@ -1,0 +1,401 @@
+id_evaluacion,id_paciente,fecha,latencia_emg_ms,fuerza_prension_kg,severidad,observaciones,nombre,edad,sexo,ciudad,IER,riesgo_score,riesgo_label
+1,69,2025-10-13,6.12,22.0,Leve,Report owner type fight face president project.,Brian Hill,59,M,South Tonyborough,10.091743119266056,1.155,medio
+2,65,2025-10-10,6.47,28.0,Severo,Whom affect nation center middle want.,John Moore,34,M,South Tammystad,16.666666666666664,1.4125,alto
+3,50,2025-05-07,4.9,33.6,Leve,It rule meet the.,Allison Hobbs,36,F,North Craigside,19.534883720930235,1.42,alto
+4,22,2023-12-30,6.12,32.7,Moderado,Century stay politics bad.,Stephen Long MD,40,F,Davidborough,18.166666666666668,1.57625,alto
+5,59,2024-10-24,6.02,11.5,Severo,Major political available executive between member box five.,Laura Anderson,45,M,Valentinefort,6.052631578947369,0.72625,bajo
+6,17,2024-05-24,6.06,18.0,Moderado,Together fly line north.,Tracie Jenkins,21,M,Chelseashire,12.67605633802817,1.0125,medio
+7,52,2024-03-14,7.18,28.1,Leve,Ago represent worker laugh.,John Berry,59,M,North Annburgh,12.889908256880735,1.53125,alto
+8,146,2025-06-16,2.72,11.4,Leve,Quality appear sit main would opportunity special.,Kari Sutton,47,F,Port Allenport,5.876288659793815,0.19125,bajo
+9,188,2025-08-31,3.59,16.1,Leve,Letter sport response safe her give.,Erica Bray,45,F,Schmidtton,8.473684210526317,0.55,bajo
+10,92,2025-10-19,6.51,22.4,Leve,Politics without late remain social.,Steven Fisher,52,F,West Loriport,10.980392156862743,1.22875,alto
+11,195,2025-05-31,3.03,26.3,Moderado,Idea again skin success.,Jeffrey Peters,57,F,Chelseaville,12.289719626168226,0.8150000000000001,bajo
+12,111,2025-07-17,5.89,10.2,Leve,West with phone late often.,Austin Perez,20,F,North Hayden,7.285714285714286,0.64375,bajo
+13,159,2024-01-17,3.47,22.8,Leve,Daughter certain performance white boy seat.,Brian Garcia,58,M,Port Marie,10.555555555555555,0.76875,bajo
+14,88,2024-08-17,5.24,24.0,Leve,Hold method throughout gun.,Dylan Sellers,36,M,Port Brettburgh,13.953488372093023,1.08875,medio
+15,65,2024-12-11,5.03,25.7,Severo,Management full form according with kid.,John Moore,34,M,South Tammystad,15.297619047619046,1.1099999999999999,medio
+16,36,2023-12-10,5.03,14.9,Moderado,Along data structure everything series reach operation.,Mr. John Wang DDS,58,M,Thomasview,6.898148148148148,0.7075,bajo
+17,128,2024-03-07,4.94,15.2,Moderado,Wish usually admit.,Maurice Lee,58,F,Port Joanport,7.037037037037036,0.71375,bajo
+18,179,2024-10-07,6.34,11.8,Leve,No media box structure fear during wind indicate.,Christine Brewer,21,M,Kyleborough,8.309859154929578,0.79375,bajo
+19,124,2024-02-07,6.07,30.0,Leve,Color left party finally account performance.,Kevin Jenkins,34,F,Hillview,17.857142857142854,1.44625,alto
+20,90,2025-11-14,7.22,29.7,Leve,Grow world guy say professor.,Brooke Hatfield MD,54,M,New Seanmouth,14.278846153846153,1.615,alto
+21,194,2025-07-12,4.32,20.1,Leve,Customer the wide spring.,Samantha Stephens,36,F,Chaseberg,11.686046511627907,0.81,bajo
+22,112,2025-07-01,4.55,34.3,Severo,Third move story prove.,Cindy Smith,54,F,Westton,16.490384615384613,1.38625,alto
+23,35,2024-07-27,2.43,18.1,Leve,Place senior leave career security group understand majority.,Kevin Lopez,28,F,Mcgeemouth,11.602564102564102,0.4225,bajo
+24,76,2024-06-14,2.66,32.6,Leve,Again effect usually music any education often.,Catherine Hodge,60,F,North Faithmouth,14.818181818181818,1.0050000000000001,medio
+25,195,2025-04-01,2.64,34.9,Severo,Subject hear front.,Jeffrey Peters,57,F,Chelseaville,16.308411214953274,1.0825,medio
+26,118,2024-03-31,7.01,25.8,Moderado,Central right perform lot policy recognize quickly.,Robert Garcia,45,F,South Mckenzieview,13.578947368421053,1.4225,alto
+27,133,2025-01-30,6.23,33.3,Moderado,Well evidence instead idea.,Brent Jefferson MD,42,M,South Adam,18.097826086956523,1.6175,alto
+28,37,2025-08-25,4.69,24.9,Leve,Enter Mrs factor indicate never official.,Melanie Fletcher,37,M,Leeburgh,14.310344827586206,1.035,medio
+29,118,2025-11-07,4.56,13.0,Leve,Hour specific move outside operation meeting.,Robert Garcia,45,F,South Mckenzieview,6.842105263157895,0.5587500000000001,bajo
+30,176,2023-11-29,4.07,28.6,Leve,Trial billion thought both ten degree.,Alex Bonilla,56,M,Shortberg,13.49056603773585,1.0575,medio
+31,33,2025-04-12,6.78,34.6,Leve,Hard billion possible night church life.,Laura Walker,26,M,Ronaldburgh,22.763157894736842,1.7574999999999998,alto
+32,61,2025-07-18,3.22,29.6,Leve,Myself level about serious item especially.,Destiny Fox,29,M,Sheilatown,18.734177215189874,0.98375,medio
+33,113,2024-02-14,7.55,28.5,Leve,Billion operation white show.,James Griffin,56,M,Port Luisport,13.443396226415093,1.62,alto
+34,74,2023-11-22,7.59,15.6,Leve,Shake investment identify stage.,Deanna Bridges,45,M,Medinabury,8.210526315789474,1.15375,medio
+35,163,2025-08-14,4.27,33.4,Moderado,Now American special they take nor.,Kathryn Pope,28,M,South Jenniferberg,21.41025641025641,1.29125,alto
+36,49,2024-12-10,3.56,29.2,Leve,Natural particular girl truth nature.,Marilyn Gregory,33,M,Josephburgh,17.59036144578313,1.00875,medio
+37,181,2025-04-04,5.63,30.6,Moderado,Hour model lose act social campaign team.,Michael Ford,42,F,Lake Donald,16.6304347826087,1.4,alto
+38,197,2025-06-20,3.2,12.1,Leve,Fear because west.,Richard Johnson,24,F,Ryanchester,8.175675675675675,0.31125,bajo
+39,121,2025-08-16,2.45,11.8,Leve,Hot probably lot any college.,Charles Wells,46,M,Markchester,6.145833333333334,0.15625,bajo
+40,29,2024-10-08,2.06,34.7,Severo,Drop rate leg economy cause energy reflect.,Erik Patton,35,F,Michellestad,20.411764705882355,0.98875,medio
+41,74,2025-09-25,3.13,19.0,Moderado,Support leader happy production.,Deanna Bridges,45,M,Medinabury,10.0,0.6025,bajo
+42,136,2024-06-21,7.3,27.5,Leve,Space their religious television bit new at.,Tammy Acosta,48,M,Simmonsfurt,14.03061224489796,1.5425,alto
+43,62,2025-07-12,5.96,16.1,Leve,Cell report until two.,Debra Ayala,55,M,Lake Brianport,7.666666666666667,0.9125,medio
+44,85,2024-06-12,2.77,24.2,Severo,Positive rate read give.,Mathew Davis,27,M,Mejiashire,15.714285714285714,0.70625,bajo
+45,48,2024-01-15,4.09,17.6,Severo,Use degree form adult their care.,Krista Phillips,54,F,Warnermouth,8.461538461538462,0.6725000000000001,bajo
+46,105,2024-04-19,2.74,30.8,Moderado,Always manager almost mother land vote project.,Claudia Pennington,56,M,Frazierborough,14.528301886792452,0.9512499999999999,medio
+47,182,2025-02-23,4.48,18.7,Moderado,Mention they eye future.,Shelly Clark,56,M,Jordanberg,8.820754716981131,0.79,bajo
+48,161,2024-07-27,6.91,27.0,Leve,Office lay usually central girl son why.,Christopher Collins,27,M,Valdezville,17.532467532467532,1.4612500000000002,alto
+49,4,2025-06-18,4.59,22.4,Severo,Avoid hair church simple color environmental.,Katherine Williams,27,F,Port Ambershire,14.545454545454545,0.9275,medio
+50,163,2025-05-07,6.11,14.9,Leve,Effect job effort forward.,Kathryn Pope,28,M,South Jenniferberg,9.551282051282051,0.8724999999999999,medio
+51,170,2024-07-09,7.67,13.5,Moderado,Sea defense stand fill help mission sit clear.,Mary Whitaker,43,M,Port Matthew,7.258064516129033,1.07,medio
+52,154,2025-01-07,2.07,34.8,Moderado,Stuff cultural agent remain.,Robin Harding,20,F,East Karen,24.857142857142858,0.9975,medio
+53,158,2023-12-07,3.94,27.7,Leve,Offer education trouble down type American.,Madeline Wood,22,F,Coleville,19.23611111111111,1.0,medio
+54,119,2025-02-11,4.75,20.2,Severo,Ever generation watch now bed cold position.,Frank Wilson,33,F,Lake Laurenton,12.16867469879518,0.89625,medio
+55,155,2025-11-12,4.52,10.6,Moderado,Item read eat structure peace man.,Mary Cox,46,F,South Lauraberg,5.520833333333333,0.44375,bajo
+56,182,2025-05-06,2.16,15.2,Severo,Reality standard eye cold new either machine.,Shelly Clark,56,M,Jordanberg,7.169811320754716,0.2575,bajo
+57,22,2025-07-14,7.27,26.7,Leve,End forward without.,Stephen Long MD,40,F,Davidborough,14.833333333333332,1.5,alto
+58,75,2024-01-11,5.62,19.6,Leve,Paper wife oil business room officer feeling.,David Roberts,44,F,West Zacharychester,10.425531914893618,1.005,medio
+59,28,2024-02-29,2.35,13.5,Moderado,Cost might finally.,James Shelton,47,F,Sandovalfort,6.958762886597938,0.19999999999999998,bajo
+60,187,2024-08-03,2.84,16.6,Moderado,Quality job him apply policy strategy recent.,Diana Moore,21,M,Mccannchester,11.690140845070424,0.44125000000000003,bajo
+61,8,2024-03-08,5.27,16.2,Moderado,Fast stop piece decade ground toward quickly performance.,James Beck,42,M,North Michaelville,8.804347826086957,0.8175000000000001,bajo
+62,62,2024-01-14,3.95,18.7,Leve,Painting employee guess maintain.,Debra Ayala,55,M,Lake Brianport,8.904761904761903,0.69875,bajo
+63,100,2024-08-31,5.27,30.0,Leve,Trouble cost meet national market popular expert.,Andrew Martinez,31,M,West Thomas,18.51851851851852,1.32125,alto
+64,119,2024-01-28,7.68,10.1,Leve,Eight term however law.,Frank Wilson,33,F,Lake Laurenton,6.08433734939759,0.9349999999999999,medio
+65,52,2024-09-06,3.51,17.3,Severo,Whose stage American development arrive.,John Berry,59,M,North Annburgh,7.9357798165137625,0.58,bajo
+66,163,2025-04-14,3.84,31.8,Severo,Save most some with.,Kathryn Pope,28,M,South Jenniferberg,20.384615384615383,1.165,medio
+67,175,2024-10-21,3.42,29.9,Leve,Identify town eye character certainly deal wide.,Michael Cook,22,M,Hutchinsonland,20.76388888888889,1.02125,medio
+68,107,2024-06-05,7.69,10.4,Leve,Hard know despite teach he important carry.,Robert Davis,59,M,Grahamstad,4.770642201834863,0.95625,medio
+69,53,2025-10-17,5.77,24.9,Moderado,Every state put several else.,Paul Vazquez,23,F,New Jamie,17.054794520547944,1.19875,alto
+70,147,2025-07-29,2.91,29.4,Leve,Evening sit before indicate politics old than see.,Gregory Sims,39,M,West Kimberly,16.51685393258427,0.91,medio
+71,24,2024-10-09,7.66,12.1,Severo,Stock view loss hotel rich operation garden.,Shawna Perez,31,M,Lake Alan,7.469135802469135,1.02125,medio
+72,132,2024-07-26,3.54,31.4,Severo,Mother research speech six again.,Lynn Wilson,56,F,Calderonport,14.811320754716979,1.1199999999999999,medio
+73,124,2025-11-01,5.3,26.9,Moderado,Both interview rest member certain eat history.,Kevin Jenkins,34,F,Hillview,16.01190476190476,1.2112500000000002,alto
+74,71,2025-06-19,2.42,28.4,Moderado,Science subject join.,Angela Greer,35,F,Davidview,16.705882352941178,0.77125,bajo
+75,25,2025-02-28,2.65,32.0,Leve,Future coach perhaps environment writer case dream.,Paul Brown,41,F,Abigailton,17.582417582417584,0.9675,medio
+76,52,2024-01-26,7.8,21.1,Leve,Top bank at program.,John Berry,59,M,North Annburgh,9.67889908256881,1.42625,alto
+77,7,2025-07-04,7.46,25.3,Leve,Do cause girl nation eye benefit.,Taylor Boyd,38,F,East Kathleenville,14.375,1.4849999999999999,alto
+78,126,2024-08-18,4.81,23.8,Severo,Election put news both cost foreign physical.,Miranda Fry,32,F,Lake Paul,14.512195121951219,1.0125,medio
+79,173,2024-04-09,2.44,12.2,Leve,Agency rate state instead attention smile.,Michael Miranda,58,M,Lake Maryberg,5.648148148148147,0.175,bajo
+80,88,2024-11-01,4.11,19.0,Moderado,Pressure both produce your parent.,Dylan Sellers,36,M,Port Brettburgh,11.046511627906977,0.745,bajo
+81,37,2024-05-26,3.01,10.2,Severo,Event produce civil line way.,Melanie Fletcher,37,M,Leeburgh,5.862068965517241,0.18625,bajo
+82,86,2025-08-07,3.21,24.5,Leve,Right amount once move somebody TV.,Nicole Choi,43,F,South Randall,13.17204301075269,0.78625,bajo
+83,15,2024-01-18,6.18,18.5,Severo,Expect deal recently president contain than that open.,Cheryl Evans,22,M,Courtneystad,12.847222222222223,1.06,medio
+84,84,2024-08-15,3.44,13.5,Leve,Require husband offer wide none brother stop.,Eric Smith,20,F,North Joseton,9.642857142857144,0.39625,bajo
+85,86,2024-10-03,3.63,29.3,Moderado,Close spring star from type easy.,Nicole Choi,43,F,South Randall,15.752688172043012,1.03,medio
+86,41,2025-09-27,4.59,27.6,Leve,Develop either little.,Steve Berger,28,F,East Catherineborough,17.692307692307693,1.115,medio
+87,127,2024-03-16,7.3,33.3,Moderado,Box never by animal only reflect.,Ebony Johnson,51,F,South Mike,16.485148514851485,1.7875,alto
+88,28,2025-01-29,2.57,32.1,Leve,Person level local difficult despite perhaps career.,James Shelton,47,F,Sandovalfort,16.54639175257732,0.95625,medio
+89,43,2025-05-27,6.55,33.9,Leve,Respond network hit record its side hot.,Robert Perez,21,M,West Luis,23.87323943661972,1.7,alto
+90,50,2025-08-12,7.22,24.2,Severo,Improve dinner when although part structure.,Allison Hobbs,36,F,North Craigside,14.069767441860465,1.4100000000000001,alto
+91,199,2025-08-06,5.0,18.4,Leve,Ok when they check certainly upon read.,Debra Andrews,25,F,New Tanya,12.266666666666666,0.865,medio
+92,145,2025-05-04,3.02,34.5,Moderado,Hand design seek sell.,John King,47,M,Kimberlyhaven,17.783505154639176,1.14875,medio
+93,17,2025-10-02,7.44,14.8,Moderado,Who glass up animal painting.,Tracie Jenkins,21,M,Chelseashire,10.422535211267606,1.08,medio
+94,109,2025-01-17,6.49,10.3,Moderado,After back shoulder evening.,Carolyn Bailey,46,F,Maryborough,5.364583333333334,0.745,bajo
+95,64,2024-12-27,3.6,25.6,Moderado,Close baby bank Mr of.,Eric Mora,50,M,Danielfort,12.8,0.88625,medio
+96,126,2025-05-15,3.8,20.9,Leve,Southern maintain however shoulder kind alone responsibility building.,Miranda Fry,32,F,Lake Paul,12.743902439024389,0.75875,bajo
+97,157,2024-04-09,7.65,19.5,Moderado,Which lot behind fire knowledge help.,Rachel Stone,60,M,Williamstad,8.863636363636363,1.3287499999999999,alto
+98,188,2024-09-16,2.91,22.2,Leve,Behavior peace sound notice page reason key word.,Erica Bray,45,F,Schmidtton,11.68421052631579,0.65,bajo
+99,32,2024-04-22,4.71,27.3,Leve,Society will never increase prove answer room.,Joseph Carr,56,F,Joneschester,12.877358490566037,1.12875,medio
+100,162,2024-10-23,5.2,15.8,Moderado,Program management minute task every nature close.,Cindy Jensen,46,F,Lewisfurt,8.229166666666668,0.77875,bajo
+101,6,2025-01-27,7.87,30.8,Leve,Meet line above site.,Amber Thompson,58,M,Maryberg,14.25925925925926,1.79875,alto
+102,14,2024-07-20,6.16,24.4,Leve,Season live soldier sound.,Stephen Ramos,43,F,Tylerberg,13.118279569892474,1.25125,alto
+103,9,2024-04-13,7.36,26.3,Leve,Turn argue exactly exist success market drive kid.,Erica Lopez,30,F,Millerside,16.4375,1.505,alto
+104,193,2025-06-19,3.12,30.7,Moderado,Run girl religious local.,Amy Turner,30,F,Port Steventon,19.1875,1.01375,medio
+105,52,2025-10-11,5.91,18.5,Severo,Social answer box miss.,John Berry,59,M,North Annburgh,8.486238532110093,1.00875,medio
+106,183,2025-09-19,3.63,16.8,Leve,Part anything respond figure dream.,Drew Lopez,51,F,North Robert,8.316831683168317,0.58875,bajo
+107,74,2024-08-13,7.45,28.4,Leve,Whether pull would yet sit form age.,Deanna Bridges,45,M,Medinabury,14.947368421052632,1.59625,alto
+108,5,2025-11-07,4.74,28.8,Moderado,Court often loss economy.,Mary Ferrell,40,M,East Jacob,16.0,1.18125,alto
+109,175,2023-12-02,6.51,12.8,Moderado,Young him discover them want across.,Michael Cook,22,M,Hutchinsonland,8.88888888888889,0.85875,medio
+110,71,2025-05-31,5.28,22.2,Leve,Room ahead sort role range really.,Angela Greer,35,F,Davidview,13.058823529411764,1.03375,medio
+111,109,2024-11-27,7.78,14.4,Leve,Success above others world follow owner recognize.,Carolyn Bailey,46,F,Maryborough,7.500000000000001,1.1375,medio
+112,172,2024-01-26,3.08,29.5,Leve,Both realize high tend face much baby.,Jocelyn Ramirez,31,F,Smithbury,18.209876543209877,0.9500000000000001,medio
+113,88,2024-12-28,3.05,25.5,Moderado,Push left along place somebody them.,Dylan Sellers,36,M,Port Brettburgh,14.825581395348838,0.78375,bajo
+114,26,2025-04-08,6.51,30.9,Leve,Group partner next.,Brittany Rogers,44,M,Lambfurt,16.43617021276596,1.5625,alto
+115,86,2025-03-16,2.65,32.2,Moderado,Collection modern democratic effect modern.,Nicole Choi,43,F,South Randall,17.31182795698925,0.9774999999999999,medio
+116,25,2025-09-09,2.65,11.5,Leve,Wait more center fly hospital.,Paul Brown,41,F,Abigailton,6.318681318681319,0.17375000000000002,bajo
+117,157,2025-06-13,2.94,18.3,Moderado,Trip those job assume new include sign part.,Rachel Stone,60,M,Williamstad,8.318181818181818,0.53,bajo
+118,152,2025-09-18,7.16,14.4,Severo,Age benefit them out in computer technology.,Robert Bryant,58,F,Johnsonborough,6.666666666666666,1.0150000000000001,medio
+119,165,2025-01-30,5.1,26.7,Leve,Effort allow ever.,Douglas Lewis Jr.,52,F,South Abigailburgh,13.088235294117647,1.1575,medio
+120,92,2024-01-05,4.69,22.3,Moderado,Series possible across government actually none.,Steven Fisher,52,F,West Loriport,10.931372549019608,0.94375,medio
+121,19,2024-05-15,6.75,29.5,Moderado,Road director month individual rise chance player.,Christina Brown,49,M,Laurieburgh,14.8989898989899,1.5375,alto
+122,26,2025-02-08,5.57,33.9,Leve,Peace court short ago before white.,Brittany Rogers,44,M,Lambfurt,18.03191489361702,1.5375,alto
+123,24,2025-08-04,5.68,10.6,Moderado,Blood include recently smile.,Shawna Perez,31,M,Lake Alan,6.54320987654321,0.635,bajo
+124,169,2025-06-17,4.77,17.8,Leve,Order international pass look including else government Republican.,Mary Ross,51,M,East Karen,8.811881188118813,0.805,bajo
+125,124,2025-05-22,5.78,25.7,Leve,Meet defense important ready he.,Kevin Jenkins,34,F,Hillview,15.297619047619046,1.225,alto
+126,188,2024-11-15,5.66,28.8,Moderado,We development machine when thing guess everybody discover.,Erica Bray,45,F,Schmidtton,15.157894736842106,1.32625,alto
+127,109,2024-11-22,3.57,22.8,Leve,East American billion expert away.,Carolyn Bailey,46,F,Maryborough,11.875,0.7837500000000001,bajo
+128,176,2024-01-24,2.03,17.0,Severo,Forget will development special social.,Alex Bonilla,56,M,Shortberg,8.018867924528301,0.3125,bajo
+129,198,2025-09-10,2.38,31.7,Leve,Budget him player consumer commercial.,Laura Deleon,53,M,East Timothymouth,15.388349514563107,0.91125,medio
+130,157,2023-11-27,5.48,30.7,Leve,Should manage debate past list town beat.,Rachel Stone,60,M,Williamstad,13.954545454545453,1.3824999999999998,alto
+131,107,2024-05-25,2.46,15.0,Leve,Special police which both.,Robert Davis,59,M,Grahamstad,6.880733944954129,0.28875,bajo
+132,153,2024-08-20,3.97,20.0,Severo,Boy million fly public participant.,Tammy Kelly,52,M,Denisestad,9.803921568627452,0.75,bajo
+133,87,2025-04-10,5.3,11.9,Leve,Race blood billion court us as perform.,Angela Scott,30,F,Johnborough,7.4375,0.64,bajo
+134,25,2025-10-23,7.77,31.0,Moderado,Weight budget fly maybe similar majority risk.,Paul Brown,41,F,Abigailton,17.032967032967033,1.7825,alto
+135,52,2024-12-04,7.68,10.8,Moderado,Voice behavior data against whose lot.,John Berry,59,M,North Annburgh,4.954128440366974,0.96375,medio
+136,197,2024-03-12,4.57,26.0,Moderado,True kind reflect much green wide.,Richard Johnson,24,F,Ryanchester,17.56756756756757,1.0525,medio
+137,43,2025-09-23,6.64,26.2,Leve,Participant decide middle play best chance care picture.,Robert Perez,21,M,West Luis,18.450704225352112,1.3925,alto
+138,35,2025-09-28,4.29,11.1,Leve,Student beyond executive nation student statement.,Kevin Lopez,28,F,Mcgeemouth,7.115384615384615,0.41875,bajo
+139,100,2024-07-12,2.49,30.5,Leve,Way drug key prove company able.,Andrew Martinez,31,M,West Thomas,18.827160493827158,0.87625,medio
+140,82,2025-03-30,6.11,28.9,Leve,Better price similar beautiful nearly poor.,Ms. Michelle Crawford,28,F,Kathyshire,18.525641025641026,1.3975,alto
+141,181,2023-11-27,7.46,17.8,Leve,Free level meeting few finally feel where.,Michael Ford,42,F,Lake Donald,9.673913043478262,1.2325,alto
+142,51,2024-12-05,7.46,25.9,Moderado,Painting dark upon city American.,Jeffrey Ramirez,55,F,Joshuatown,12.333333333333332,1.5125,alto
+143,155,2024-09-30,7.93,33.0,Leve,Draw other ago accept last owner compare.,Mary Cox,46,F,South Lauraberg,17.1875,1.90625,alto
+144,189,2025-03-23,4.99,16.0,Leve,Morning discussion whatever.,Carrie Perez,51,F,Lake Tammyfurt,7.920792079207921,0.76,bajo
+145,96,2024-02-28,6.52,25.0,Moderado,Wrong ever step at majority medical report.,Caitlyn Andersen,47,F,West Lisa,12.88659793814433,1.3275000000000001,alto
+146,115,2025-03-06,7.04,30.6,Leve,Section perform station impact hospital chair.,Aaron Diaz,22,M,East Jenniferville,21.25,1.625,alto
+147,34,2025-07-13,7.68,29.4,Severo,Short local above indicate official gas.,Allison Malone,40,M,South Christina,16.333333333333332,1.67625,alto
+148,92,2024-11-25,3.16,12.0,Severo,Teacher blue boy town seek pick arm.,Steven Fisher,52,F,West Loriport,5.88235294117647,0.3025,bajo
+149,159,2024-12-12,5.55,17.5,Leve,Book international never management approach.,Brian Garcia,58,M,Port Marie,8.101851851851851,0.9025000000000001,medio
+150,149,2024-10-13,4.63,31.7,Moderado,Impact operation focus hour attorney actually let.,Todd Thomas,30,M,East Jessicaberg,19.8125,1.2974999999999999,alto
+151,182,2025-03-20,6.45,17.9,Severo,Tree enter standard anyone someone agree history.,Shelly Clark,56,M,Jordanberg,8.443396226415093,1.06125,medio
+152,6,2024-11-30,5.62,20.5,Leve,Miss Democrat decision career number weight.,Amber Thompson,58,M,Maryberg,9.49074074074074,1.04125,medio
+153,17,2024-04-07,5.41,17.7,Moderado,Peace simply national seek live.,Tracie Jenkins,21,M,Chelseashire,12.464788732394366,0.89375,medio
+154,100,2025-03-15,2.2,10.4,Leve,He build consumer investment interest strategy himself.,Andrew Martinez,31,M,West Thomas,6.419753086419753,0.0625,bajo
+155,21,2024-08-17,5.56,11.1,Moderado,Real project computer.,Rachel Reed,21,M,East Michaelhaven,7.816901408450704,0.6287499999999999,bajo
+156,27,2024-09-20,2.79,25.5,Leve,Oil him store each.,Sherry Perez,46,M,Josephfurt,13.28125,0.74125,bajo
+157,45,2023-12-06,4.52,13.9,Moderado,Everybody system across occur four strong mean federal.,Patrick Kelly,47,F,Anthonyberg,7.164948453608248,0.57875,bajo
+158,112,2025-09-23,5.52,13.5,Moderado,Number soldier structure relate fast young car.,Cindy Smith,54,F,Westton,6.490384615384615,0.72,bajo
+159,24,2023-12-28,7.55,15.7,Moderado,Really brother until size.,Shawna Perez,31,M,Lake Alan,9.691358024691358,1.15125,medio
+160,162,2025-05-19,5.97,26.2,Moderado,Reach especially world carry why.,Cindy Jensen,46,F,Lewisfurt,13.645833333333334,1.27625,alto
+161,44,2024-05-21,2.0,32.3,Leve,Point set now late commercial on him.,Lindsay Edwards,39,M,Port Kaitlyn,18.146067415730336,0.8875,medio
+162,163,2024-12-28,6.06,31.2,Leve,Where any history other.,Kathryn Pope,28,M,South Jenniferberg,20.0,1.5025,alto
+163,152,2025-03-13,6.62,12.6,Leve,Up how knowledge cover good professor avoid.,Robert Bryant,58,F,Johnsonborough,5.833333333333333,0.87625,medio
+164,80,2025-05-17,6.56,18.6,Leve,Ground side all down many.,Scott Reese,44,F,South Lisahaven,9.893617021276597,1.12625,medio
+165,132,2023-12-28,7.91,10.9,Leve,Significant everybody others court measure.,Lynn Wilson,56,F,Calderonport,5.1415094339622645,1.02,medio
+166,47,2024-06-06,3.54,15.9,Moderado,Customer suddenly hard half state song reality.,Kenneth Allen,27,F,New Joshua,10.324675324675324,0.52875,bajo
+167,123,2025-03-16,7.34,16.7,Moderado,Thing despite artist.,Angela Schneider,34,M,East David,9.94047619047619,1.165,medio
+168,180,2025-05-15,4.6,13.5,Leve,Identify find hospital north east.,Jason Alexander,47,M,New Jay,6.958762886597938,0.58375,bajo
+169,23,2024-04-08,3.99,33.7,Leve,Sea common pretty hand young central.,Thomas Combs,52,F,Crystalborough,16.519607843137255,1.27125,alto
+170,118,2023-12-18,5.21,21.5,Moderado,Sit yeah paper actually.,Robert Garcia,45,F,South Mckenzieview,11.31578947368421,1.0037500000000001,medio
+171,107,2025-03-18,6.59,32.8,Severo,Friend particular less and model amount.,Robert Davis,59,M,Grahamstad,15.045871559633028,1.66375,alto
+172,74,2024-03-29,6.32,34.8,Severo,On move opportunity style.,Deanna Bridges,45,M,Medinabury,18.31578947368421,1.69,alto
+173,13,2024-08-02,5.13,23.1,Leve,Join his follow of air.,Anna Yang,59,F,New Amandastad,10.59633027522936,1.0350000000000001,medio
+174,78,2024-02-19,7.99,12.3,Leve,Six year music suffer public support.,Jerry Mason,34,M,Kristinamouth,7.321428571428571,1.11,medio
+175,169,2024-11-04,3.02,14.3,Leve,Business others candidate bill half defense until.,Mary Ross,51,M,East Karen,7.079207920792079,0.3525,bajo
+176,189,2025-09-14,4.34,23.9,Severo,Strong challenge you but serious relationship father.,Carrie Perez,51,F,Lake Tammyfurt,11.83168316831683,0.93375,medio
+177,123,2025-08-06,5.88,16.5,Moderado,We data build strategy different.,Angela Schneider,34,M,East David,9.821428571428571,0.9175,medio
+178,113,2025-01-26,7.53,17.8,Severo,Source three knowledge.,James Griffin,56,M,Port Luisport,8.39622641509434,1.24125,alto
+179,157,2025-08-13,7.07,22.7,Moderado,Condition class activity soldier this.,Rachel Stone,60,M,Williamstad,10.318181818181817,1.32625,alto
+180,86,2025-03-29,7.24,32.2,Leve,Never agree environment doctor and operation.,Nicole Choi,43,F,South Randall,17.31182795698925,1.725,alto
+181,174,2024-02-10,7.2,24.1,Moderado,Writer watch meeting power policy.,Anne Thompson,21,F,Kentview,16.971830985915496,1.4,alto
+182,185,2025-01-22,3.99,17.3,Leve,Thousand boy others state police.,Jill Adams,20,M,Francisberg,12.357142857142858,0.645,bajo
+183,7,2025-01-20,4.94,34.9,Leve,Daughter soldier certainly part officer speech.,Taylor Boyd,38,F,East Kathleenville,19.829545454545453,1.48,alto
+184,96,2023-12-17,3.32,12.6,Leve,Room company put speech course western drive.,Caitlyn Andersen,47,F,West Lisa,6.494845360824742,0.355,bajo
+185,159,2025-06-12,3.69,20.9,Leve,Hit from remember agent adult over probably.,Brian Garcia,58,M,Port Marie,9.675925925925924,0.7537499999999999,bajo
+186,72,2025-11-18,4.33,14.7,Moderado,Describe piece energy area hear apply agency win.,Jeffrey Robinson,37,F,Owensview,8.448275862068964,0.575,bajo
+187,121,2024-07-04,3.14,33.9,Severo,Item organization it wide.,Charles Wells,46,M,Markchester,17.65625,1.16,medio
+188,110,2025-02-14,4.89,18.0,Moderado,Against carry foreign huge someone.,Colton Jordan,54,F,Joneston,8.653846153846153,0.83,bajo
+189,155,2024-05-23,3.6,12.2,Severo,Together field happen.,Mary Cox,46,F,South Lauraberg,6.354166666666667,0.39,bajo
+190,152,2025-01-09,3.06,27.0,Leve,National media road lawyer win near.,Robert Bryant,58,F,Johnsonborough,12.5,0.85375,medio
+191,130,2025-07-31,7.71,15.8,Moderado,Man story management choose product attorney open.,Jessica Bishop,23,M,Thompsonbury,10.82191780821918,1.1875,alto
+192,138,2024-02-15,2.92,21.0,Moderado,Suddenly understand question develop.,Leslie King,32,M,West Christopher,12.804878048780488,0.62875,bajo
+193,44,2024-09-05,6.59,26.7,Moderado,Box draw pull window identify our occur want.,Lindsay Edwards,39,M,Port Kaitlyn,15.0,1.39625,alto
+194,154,2024-10-20,6.92,10.6,Moderado,Product leader final citizen drop research.,Robin Harding,20,F,East Karen,7.571428571428572,0.8275,bajo
+195,117,2024-12-14,7.15,11.1,Moderado,Man soldier group trial involve lawyer affect check.,Joshua Hartman,24,M,South Bradleyburgh,7.5,0.87625,medio
+196,170,2025-02-03,5.07,17.5,Leve,Model with instead low.,Mary Whitaker,43,M,Port Matthew,9.408602150537636,0.835,medio
+197,7,2024-07-18,7.74,28.6,Leve,Character reflect cost.,Taylor Boyd,38,F,East Kathleenville,16.25,1.65875,alto
+198,128,2025-04-14,6.9,23.9,Moderado,Suffer law to most.,Maurice Lee,58,F,Port Joanport,11.064814814814813,1.3399999999999999,alto
+199,44,2025-09-21,4.85,12.0,Severo,Anything begin as direction production film audience other.,Lindsay Edwards,39,M,Port Kaitlyn,6.741573033707865,0.57,bajo
+200,20,2024-02-02,7.85,12.5,Leve,Amount late see accept write.,Bob Daniel,57,M,Port Karlburgh,5.841121495327104,1.0875000000000001,medio
+201,81,2025-09-28,6.88,20.7,Moderado,Let floor difference fact build.,Anthony Fields,26,F,East Mark,13.618421052631579,1.2425,alto
+202,108,2025-02-10,5.46,23.5,Severo,Stand marriage join really.,Carol Hubbard,41,F,Jeffreystad,12.912087912087912,1.09375,medio
+203,162,2025-02-17,7.37,19.7,Leve,Answer few idea could national rich good.,Cindy Jensen,46,F,Lewisfurt,10.260416666666666,1.29375,alto
+204,154,2024-10-24,4.78,23.9,Severo,Improve compare once both.,Robin Harding,20,F,East Karen,17.071428571428573,1.0150000000000001,medio
+205,152,2024-06-05,5.8,24.6,Severo,Notice memory more start main one price.,Robert Bryant,58,F,Johnsonborough,11.38888888888889,1.1975,alto
+206,169,2023-12-21,4.47,15.6,Leve,Cultural business audience time bill civil term.,Mary Ross,51,M,East Karen,7.7227722772277225,0.64625,bajo
+207,29,2024-06-29,4.38,11.5,Leve,Official thank machine price behind either speech.,Erik Patton,35,F,Michellestad,6.764705882352941,0.46375,bajo
+208,99,2025-02-03,7.03,30.1,Severo,Follow develop entire stay more.,Anthony Terry,27,F,East Christian,19.545454545454547,1.60375,alto
+209,32,2024-11-23,3.46,34.3,Severo,Home citizen fire read short.,Joseph Carr,56,F,Joneschester,16.179245283018865,1.2225000000000001,alto
+210,160,2023-12-25,6.49,28.2,Moderado,Thousand big nature type its bit chance.,Matthew Avila,25,F,West Nathan,18.8,1.4275,alto
+211,156,2024-06-20,6.24,13.8,Leve,Instead give agreement woman his trade between.,Tara Allison,32,F,Lindastad,8.414634146341463,0.85875,medio
+212,51,2025-02-26,5.82,29.3,Leve,Recently you some move factor.,Jeffrey Ramirez,55,F,Joshuatown,13.952380952380953,1.36625,alto
+213,145,2024-08-24,5.55,32.3,Severo,Store body through.,John King,47,M,Kimberlyhaven,16.649484536082472,1.4612500000000002,alto
+214,61,2024-01-12,6.99,22.7,Leve,Day mother example after.,Destiny Fox,29,M,Sheilatown,14.367088607594935,1.31125,alto
+215,51,2025-09-22,6.94,12.4,Leve,Continue here forget year.,Jeffrey Ramirez,55,F,Joshuatown,5.904761904761905,0.9125000000000001,medio
+216,135,2025-02-01,6.31,18.5,Leve,Summer entire leader work machine within.,Benjamin Johnson,34,F,North Matthew,11.011904761904761,1.0775,medio
+217,40,2024-12-24,7.82,15.0,Severo,Really myself itself better ago toward.,Johnny Hudson,33,M,Nicholasmouth,9.036144578313252,1.18125,alto
+218,197,2024-07-03,6.75,30.2,Leve,Still out maybe evening.,Richard Johnson,24,F,Ryanchester,20.405405405405403,1.56875,alto
+219,10,2025-03-23,7.78,20.4,Leve,Effect team he remain dream.,Daniel Lutz,30,F,Brianton,12.749999999999998,1.4,alto
+220,165,2024-12-07,2.75,20.3,Leve,Stuff focus to collection company store.,Douglas Lewis Jr.,52,F,South Abigailburgh,9.950980392156863,0.57625,bajo
+221,190,2025-07-13,5.9,16.6,Leve,Memory during air education doctor name daughter.,Loretta Wiggins,25,M,Timothytown,11.066666666666668,0.92625,medio
+222,71,2024-02-27,6.16,34.4,Leve,Sit factor really.,Angela Greer,35,F,Davidview,20.235294117647058,1.65125,alto
+223,81,2025-08-09,2.57,31.9,Moderado,Around heart attention in whole play.,Anthony Fields,26,F,East Mark,20.986842105263158,0.94625,medio
+224,165,2025-04-19,7.02,18.0,Leve,Three radio red writer between.,Douglas Lewis Jr.,52,F,South Abigailburgh,8.823529411764707,1.16625,alto
+225,151,2025-02-08,7.93,14.9,Moderado,Doctor level candidate human case career.,Howard Harris,44,M,Jenniferfort,7.925531914893618,1.1925,alto
+226,97,2024-06-06,6.3,12.9,Leve,Meet or threat soon.,Lori Roberts,26,F,West Robert,8.486842105263158,0.8325,bajo
+227,85,2023-12-03,6.47,17.0,Leve,Once price dog.,Mathew Davis,27,M,Mejiashire,11.03896103896104,1.02625,medio
+228,108,2025-07-30,7.77,26.9,Moderado,Leader mean plan into.,Carol Hubbard,41,F,Jeffreystad,14.780219780219781,1.6075,alto
+229,157,2025-04-20,2.29,29.2,Moderado,Leave finally everybody senior.,Rachel Stone,60,M,Williamstad,13.272727272727272,0.78625,bajo
+230,23,2025-01-01,5.91,21.2,Severo,Land oil all well.,Thomas Combs,52,F,Crystalborough,10.392156862745097,1.10375,medio
+231,20,2025-10-05,6.95,29.5,Leve,Ground fact success leader.,Bob Daniel,57,M,Port Karlburgh,13.785046728971965,1.5625,alto
+232,135,2024-04-07,6.64,33.9,Moderado,First perhaps others safe.,Benjamin Johnson,34,F,North Matthew,20.178571428571427,1.71875,alto
+233,185,2024-08-11,2.13,11.3,Moderado,Health significant course forward born system environment crime.,Jill Adams,20,M,Francisberg,8.071428571428573,0.08875,bajo
+234,15,2024-03-15,4.01,14.2,Leve,Relationship hear smile would.,Cheryl Evans,22,M,Courtneystad,9.86111111111111,0.5025,bajo
+235,101,2025-02-07,5.2,26.9,Leve,Tax system front down thank center.,Justin Sanchez,53,M,Schmidtville,13.058252427184465,1.18625,alto
+236,6,2025-08-21,7.92,13.2,Moderado,Street finally must economic forget.,Amber Thompson,58,M,Maryberg,6.111111111111111,1.12375,medio
+237,130,2025-07-12,6.23,32.6,Severo,Technology send check decision natural.,Jessica Bishop,23,M,Thompsonbury,22.328767123287673,1.58875,alto
+238,96,2025-08-21,2.41,10.8,Moderado,Character organization happen trip fund page age gun.,Caitlyn Andersen,47,F,West Lisa,5.567010309278351,0.09625,bajo
+239,59,2024-09-10,5.64,33.4,Leve,Work factor another official bit process.,Laura Anderson,45,M,Valentinefort,17.57894736842105,1.52625,alto
+240,161,2025-02-27,5.73,19.5,Leve,Employee future including business nearly allow.,Christopher Collins,27,M,Valdezville,12.662337662337663,1.0225,medio
+241,179,2025-08-07,5.27,28.2,Leve,Phone show chance TV management see.,Christine Brewer,21,M,Kyleborough,19.859154929577464,1.24125,alto
+242,125,2025-11-12,6.56,10.3,Moderado,Provide then course could collection tonight kind.,Robert Mclaughlin,45,F,Michaelfurt,5.421052631578948,0.7675000000000001,bajo
+243,67,2024-01-07,4.6,30.9,Moderado,Nothing minute decade charge.,Sharon Adams,33,F,South Kendra,18.6144578313253,1.2662499999999999,alto
+244,168,2025-05-02,2.65,25.9,Leve,Simple meeting near education place everything hand dream.,Micheal Smith,51,F,Peckview,12.821782178217822,0.72,bajo
+245,55,2024-11-14,4.31,13.2,Severo,Trial drop mind nature.,Gerald Giles,25,F,Johnnyhaven,8.799999999999999,0.515,bajo
+246,112,2023-12-16,6.17,28.5,Moderado,Season shoulder home do street.,Cindy Smith,54,F,Westton,13.701923076923077,1.3987500000000002,alto
+247,93,2024-03-16,7.53,15.8,Leve,Wind side law full next.,Todd Marks,24,F,South Andrea,10.675675675675675,1.15375,medio
+248,59,2024-08-02,5.14,30.4,Severo,In happy chance.,Laura Anderson,45,M,Valentinefort,16.0,1.31625,alto
+249,113,2025-06-30,6.52,14.3,Leve,Now threat American certainly summer.,James Griffin,56,M,Port Luisport,6.745283018867925,0.915,medio
+250,15,2024-04-23,3.79,32.0,Leve,Partner home add anyone.,Cheryl Evans,22,M,Courtneystad,22.22222222222222,1.165,medio
+251,156,2024-11-21,4.43,26.8,Moderado,Trip hospital art can.,Tara Allison,32,F,Lindastad,16.341463414634145,1.04875,medio
+252,142,2023-12-05,6.3,16.4,Moderado,All we serve reach.,Curtis Hall,47,M,Nicholasport,8.45360824742268,0.98875,medio
+253,186,2024-12-29,7.77,34.8,Leve,Room yet trip section human mean key moment.,Samuel Patrick,38,F,Tinatown,19.77272727272727,1.9300000000000002,alto
+254,117,2024-04-01,2.28,33.9,Severo,Maintain black other deep environment off fear.,Joshua Hartman,24,M,South Bradleyburgh,22.905405405405403,1.0025,medio
+255,129,2025-10-27,6.69,29.4,Leve,Feel my admit sit.,Stephen Cummings,51,M,Port Josephburgh,14.554455445544553,1.52125,alto
+256,9,2024-03-29,7.26,20.2,Leve,White ready laugh fish certain.,Erica Lopez,30,F,Millerside,12.624999999999998,1.2875,alto
+257,89,2025-03-29,4.5,17.0,Moderado,Late represent clearly alone.,Lisa Mays,27,M,South David,11.03896103896104,0.71625,bajo
+258,82,2023-12-20,2.15,33.6,Moderado,Small culture billion front ever professor.,Ms. Michelle Crawford,28,F,Kathyshire,21.53846153846154,0.96875,medio
+259,169,2025-06-09,7.16,15.3,Moderado,Room would put pass.,Mary Ross,51,M,East Karen,7.574257425742575,1.0625,medio
+260,178,2025-09-05,4.22,11.6,Leve,About happen conference ago agreement respond.,Stephanie Wu,21,F,Port Larry,8.169014084507042,0.4375,bajo
+261,87,2025-02-12,3.31,11.2,Leve,Seem per former same already involve.,Angela Scott,30,F,Johnborough,6.999999999999999,0.28750000000000003,bajo
+262,17,2025-03-11,4.41,23.4,Moderado,Cold buy popular compare can.,Tracie Jenkins,21,M,Chelseashire,16.47887323943662,0.9175,medio
+263,111,2024-05-19,5.11,11.4,Severo,Him open friend.,Austin Perez,20,F,North Hayden,8.142857142857144,0.58375,bajo
+264,67,2025-08-29,7.91,14.9,Leve,Suddenly support marriage.,Sharon Adams,33,F,South Kendra,8.975903614457831,1.1837499999999999,alto
+265,54,2024-10-26,4.63,18.4,Severo,It recent senior feeling market international.,Taylor Wilkerson,21,M,Haneyhaven,12.95774647887324,0.8062499999999999,bajo
+266,26,2024-09-15,2.69,16.2,Severo,Society example strong visit.,Brittany Rogers,44,M,Lambfurt,8.617021276595745,0.39625,bajo
+267,112,2024-11-09,4.43,18.9,Leve,Seem detail design ahead green answer party.,Cindy Smith,54,F,Westton,9.08653846153846,0.79,bajo
+268,58,2024-06-13,6.44,11.2,Leve,Young every other state entire beat.,Stephanie Francis,37,M,East Natalie,6.4367816091954015,0.76875,bajo
+269,78,2025-11-16,7.26,14.9,Leve,Work each season trade population end skin.,Jerry Mason,34,M,Kristinamouth,8.869047619047619,1.055,medio
+270,191,2025-07-07,7.18,15.1,Severo,Spend quite like produce test beyond.,Stephanie Montoya,51,F,Perezport,7.475247524752475,1.0550000000000002,medio
+271,182,2025-10-05,4.34,27.3,Severo,Between painting democratic risk high story the.,Shelly Clark,56,M,Jordanberg,12.877358490566037,1.06,medio
+272,10,2024-06-08,2.64,12.9,Leve,Very police deal road.,Daniel Lutz,30,F,Brianton,8.0625,0.2225,bajo
+273,153,2025-05-07,7.83,14.3,Moderado,Onto thank example live officer player.,Tammy Kelly,52,M,Denisestad,7.009803921568627,1.14625,medio
+274,116,2024-06-01,3.25,23.3,Leve,Ability chair sign away lead within to.,Mr. Brandon Wilson,20,F,Amandaville,16.642857142857146,0.74125,bajo
+275,3,2023-12-19,5.97,17.4,Leve,Take young hit wind.,Leslie Ferrell,34,F,Angelamouth,10.357142857142856,0.96875,medio
+276,49,2024-07-17,5.38,32.2,Moderado,Way religious late Mr staff sing question significant.,Marilyn Gregory,33,M,Josephburgh,19.397590361445783,1.4325,alto
+277,190,2024-07-21,7.81,30.4,Leve,Certainly computer smile save fast.,Loretta Wiggins,25,M,Timothytown,20.266666666666666,1.75875,alto
+278,38,2024-03-09,4.64,27.2,Leve,Recent together data school level.,Robyn Duncan,23,F,Robertmouth,18.63013698630137,1.115,medio
+279,134,2024-07-09,2.9,20.4,Leve,No seem dog smile less phone suggest modern.,Melissa Jones,58,M,New Keith,9.444444444444443,0.6025,bajo
+280,129,2024-07-12,3.03,34.9,Leve,Modern question inside stock stop lawyer finish.,Stephen Cummings,51,M,Port Josephburgh,17.277227722772277,1.1724999999999999,alto
+281,100,2024-11-10,2.75,25.0,Leve,Instead I check.,Andrew Martinez,31,M,West Thomas,15.432098765432098,0.7225,bajo
+282,102,2024-11-27,2.03,31.4,Moderado,Risk prevent hotel guess claim forward wish.,Geoffrey Mitchell,52,F,Port Justintown,15.392156862745097,0.8574999999999999,medio
+283,123,2025-05-23,4.31,19.8,Leve,Involve yet begin building unit total deep.,Angela Schneider,34,M,East David,11.785714285714285,0.79875,bajo
+284,77,2024-06-09,5.4,28.2,Severo,Field people full big.,Kyle Williams,48,M,Boyerborough,14.387755102040817,1.25875,alto
+285,76,2024-12-23,7.27,21.5,Moderado,Far relate which let.,Catherine Hodge,60,F,North Faithmouth,9.772727272727272,1.33125,alto
+286,150,2024-01-20,5.07,14.5,Severo,Never model suggest write general begin understand.,Dale Jones,47,F,Deckershire,7.474226804123711,0.69625,bajo
+287,67,2025-05-12,4.79,30.5,Leve,Since prevent laugh along agree everyone brother suddenly.,Sharon Adams,33,F,South Kendra,18.373493975903614,1.2687499999999998,alto
+288,96,2023-12-02,2.81,29.7,Severo,Pull key response thought against trial.,Caitlyn Andersen,47,F,West Lisa,15.309278350515465,0.91625,medio
+289,161,2025-05-26,7.42,12.7,Leve,Serve lawyer past important.,Christopher Collins,27,M,Valdezville,8.246753246753245,1.00375,medio
+290,44,2025-09-12,6.19,33.9,Severo,Inside him statement possible site which.,Lindsay Edwards,39,M,Port Kaitlyn,19.044943820224717,1.645,alto
+291,11,2024-02-21,3.82,13.8,Severo,Subject tree father property page dinner those.,John Chandler,43,M,New Amy,7.419354838709678,0.46375,bajo
+292,48,2025-08-01,7.63,18.4,Moderado,Great relate behind within find.,Krista Phillips,54,F,Warnermouth,8.846153846153845,1.28,alto
+293,8,2024-02-08,5.69,29.9,Severo,They force field.,James Beck,42,M,North Michaelville,16.25,1.38375,alto
+294,156,2024-02-12,6.88,18.8,Leve,Common above threat yeah take reason box today.,Tara Allison,32,F,Lindastad,11.463414634146341,1.17625,alto
+295,9,2025-04-14,3.92,12.0,Moderado,Here situation opportunity appear west score.,Erica Lopez,30,F,Millerside,7.5,0.40249999999999997,bajo
+296,169,2024-04-02,2.89,11.1,Severo,Material image knowledge everything exist.,Mary Ross,51,M,East Karen,5.495049504950495,0.20124999999999998,bajo
+297,134,2024-07-23,2.39,24.8,Moderado,Our camera place two build foot dream.,Melissa Jones,58,M,New Keith,11.481481481481481,0.63625,bajo
+298,114,2025-05-23,4.3,28.9,Leve,Out stop about certainly.,James Reynolds,33,M,Castromouth,17.409638554216865,1.10125,medio
+299,165,2025-04-21,3.3,31.3,Severo,Effect voice billion more only.,Douglas Lewis Jr.,52,F,South Abigailburgh,15.343137254901961,1.07375,medio
+300,98,2025-07-22,4.67,30.9,Leve,Recent PM my clearly question prevent.,David Fisher,28,M,Jasonville,19.807692307692307,1.2774999999999999,alto
+301,156,2025-05-29,2.65,18.9,Severo,Range manage agency any beautiful thing.,Tara Allison,32,F,Lindastad,11.524390243902438,0.49375,bajo
+302,12,2025-08-08,2.17,19.2,Moderado,Film likely what parent discuss.,Hayley Parker,55,M,Caldwellborough,9.142857142857142,0.44000000000000006,bajo
+303,41,2025-09-08,2.09,33.9,Leve,Not travel most security writer certainly hot.,Steve Berger,28,F,East Catherineborough,21.73076923076923,0.9724999999999999,medio
+304,155,2024-07-11,6.53,23.6,Leve,Exactly entire theory analysis last.,Mary Cox,46,F,South Lauraberg,12.291666666666668,1.27625,alto
+305,177,2023-11-30,4.28,20.5,Leve,Successful arrive nothing.,John Schmidt,36,M,North Thomastown,11.918604651162791,0.8175,bajo
+306,66,2024-08-07,2.66,15.3,Leve,City choose until national plan city ask.,Patricia Blevins,27,M,West Lori,9.935064935064934,0.34125,bajo
+307,34,2024-08-06,3.51,26.7,Severo,Message remain expert soldier tough they billion.,Allison Malone,40,M,South Christina,14.833333333333332,0.90625,medio
+308,29,2025-07-07,4.13,26.8,Moderado,Fund hand process next share talk then.,Erik Patton,35,F,Michellestad,15.764705882352942,1.00375,medio
+309,91,2025-03-17,7.98,15.8,Leve,Turn street quickly add charge environment defense describe.,Michael Armstrong,54,M,Allenberg,7.596153846153846,1.24875,alto
+310,57,2025-08-20,3.1,20.2,Moderado,Street analysis listen we hair should.,Anthony Brown,48,F,Lake Molly,10.306122448979592,0.6312500000000001,bajo
+311,117,2024-05-21,5.08,12.8,Moderado,Cover view bed cold prevent land between.,Joshua Hartman,24,M,South Bradleyburgh,8.64864864864865,0.6387499999999999,bajo
+312,132,2025-03-07,4.19,14.9,Moderado,Offer minute someone return close partner firm.,Lynn Wilson,56,F,Calderonport,7.028301886792453,0.55875,bajo
+313,41,2025-02-13,3.38,25.4,Leve,Though west western approach music.,Steve Berger,28,F,East Catherineborough,16.28205128205128,0.8374999999999999,medio
+314,14,2025-10-12,7.27,11.9,Moderado,Technology people see to high service design.,Stephen Ramos,43,F,Tylerberg,6.397849462365592,0.94625,medio
+315,24,2024-07-02,2.75,25.9,Leve,Big test tend bring entire.,Shawna Perez,31,M,Lake Alan,15.987654320987652,0.75375,bajo
+316,43,2024-07-03,2.68,30.7,Moderado,Stuff way rich many.,Robert Perez,21,M,West Luis,21.619718309859156,0.9299999999999999,medio
+317,115,2024-01-13,4.99,32.6,Leve,Table specific office debate country religious.,Aaron Diaz,22,M,East Jenniferville,22.63888888888889,1.39125,alto
+318,48,2024-12-28,6.65,32.8,Leve,Especially pressure peace service fine a bank.,Krista Phillips,54,F,Warnermouth,15.769230769230766,1.6775,alto
+319,24,2024-11-01,7.42,26.8,Leve,Friend be such apply outside alone respond.,Shawna Perez,31,M,Lake Alan,16.54320987654321,1.53375,alto
+320,2,2025-08-13,3.45,26.7,Severo,Great simple financial again hot prepare who up.,Mariah Payne,48,M,Gonzalezbury,13.622448979591837,0.895,medio
+321,182,2024-11-07,6.88,29.4,Leve,Several help sport sister.,Shelly Clark,56,M,Jordanberg,13.867924528301886,1.53625,alto
+322,49,2024-08-27,3.08,17.9,Severo,Administration big interesting benefit fear itself.,Marilyn Gregory,33,M,Josephburgh,10.783132530120481,0.5375,bajo
+323,115,2025-06-23,5.78,24.1,Severo,Better join them these.,Aaron Diaz,22,M,East Jenniferville,16.736111111111114,1.17875,alto
+324,7,2024-02-24,3.25,22.0,Moderado,Black sort world itself traditional letter.,Taylor Boyd,38,F,East Kathleenville,12.5,0.7025,bajo
+325,164,2025-04-19,7.94,27.5,Leve,Future explain daughter support political quickly.,Christopher Williams,56,M,Port Richardville,12.971698113207546,1.6712500000000001,alto
+326,54,2025-11-09,5.92,32.8,Leve,Popular land Congress behind up soon.,Taylor Wilkerson,21,M,Haneyhaven,23.098591549295772,1.55,alto
+327,40,2024-09-01,3.31,25.8,Moderado,Natural professor everyone measure player beat.,Johnny Hudson,33,M,Nicholasmouth,15.542168674698795,0.84375,medio
+328,137,2025-04-24,7.75,18.7,Leve,Seven soldier simply method toward finish.,Kristin Hunter,55,F,Montoyashire,8.904761904761903,1.325,alto
+329,138,2024-12-20,4.98,32.0,Leve,Act house front.,Leslie King,32,M,West Christopher,19.51219512195122,1.36,alto
+330,170,2025-07-02,4.28,29.0,Moderado,Star our education fine baby decide.,Mary Whitaker,43,M,Port Matthew,15.591397849462366,1.0987500000000001,medio
+331,35,2024-11-10,7.79,30.1,Moderado,Shake city find benefit cultural.,Kevin Lopez,28,F,Mcgeemouth,19.294871794871796,1.74375,alto
+332,62,2025-04-14,6.7,18.8,Moderado,These choose listen adult along tree reach itself.,Debra Ayala,55,M,Lake Brianport,8.952380952380953,1.16375,medio
+333,25,2023-12-25,5.22,11.3,Moderado,People conference out for other live.,Paul Brown,41,F,Abigailton,6.20879120879121,0.59375,bajo
+334,41,2024-05-25,3.58,11.5,Leve,Reveal exactly start stock.,Steve Berger,28,F,East Catherineborough,7.371794871794871,0.35125,bajo
+335,69,2024-02-03,2.2,23.0,Leve,Bill voice cup buy picture conference benefit.,Brian Hill,59,M,South Tonyborough,10.550458715596331,0.5512499999999999,bajo
+336,200,2025-03-18,7.02,17.7,Leve,Maybe human machine speech these buy difficult.,Eileen Cross,41,M,Fieldshaven,9.725274725274726,1.1475,medio
+337,101,2024-05-14,2.9,31.1,Leve,Poor cost there if full on however already.,Justin Sanchez,53,M,Schmidtville,15.097087378640778,0.995,medio
+338,11,2025-07-19,5.62,29.6,Moderado,Before lay night offer.,John Chandler,43,M,New Amy,15.913978494623658,1.35625,alto
+339,94,2024-08-08,7.98,11.0,Moderado,Not beat sure together another thank.,Bradley Berger,58,F,Howardside,5.092592592592593,1.03875,medio
+340,46,2024-06-16,7.56,31.1,Moderado,Travel parent short.,Laura Klein,26,F,Lake Ginafort,20.460526315789476,1.74875,alto
+341,147,2025-11-20,4.12,10.1,Severo,East might movie attorney billion.,Gregory Sims,39,M,West Kimberly,5.674157303370786,0.355,bajo
+342,139,2024-07-11,4.07,32.7,Leve,Finish parent box glass on allow blue.,Lisa Calderon,51,F,South Shaunville,16.18811881188119,1.24125,alto
+343,25,2024-01-20,7.47,14.2,Leve,Tough fly training left serious.,Paul Brown,41,F,Abigailton,7.802197802197803,1.06625,medio
+344,200,2024-02-01,3.12,19.0,Moderado,Above play receive should their operation.,Eileen Cross,41,M,Fieldshaven,10.43956043956044,0.59875,bajo
+345,79,2024-06-20,5.42,16.2,Leve,Key measure similar.,Mark Harrison,20,F,South Matthew,11.571428571428571,0.8400000000000001,medio
+346,41,2025-06-21,3.98,32.5,Leve,Quickly with soon.,Steve Berger,28,F,East Catherineborough,20.833333333333332,1.215,alto
+347,75,2025-02-26,5.65,23.5,Moderado,Approach ground all dream weight health me three.,David Roberts,44,F,West Zacharychester,12.5,1.1287500000000001,medio
+348,74,2025-03-11,3.44,17.0,Severo,Plant quality bed break move.,Deanna Bridges,45,M,Medinabury,8.947368421052632,0.555,bajo
+349,124,2025-01-03,6.47,21.7,Leve,Thus thus century Democrat.,Kevin Jenkins,34,F,Hillview,12.916666666666664,1.1975,alto
+350,177,2023-11-22,2.7,22.6,Leve,Surface power unit edge animal ok.,John Schmidt,36,M,North Thomastown,13.13953488372093,0.6225,bajo
+351,120,2024-12-29,2.06,32.9,Severo,Perhaps maintain wonder bill hundred entire process.,Ronald Lucero,58,M,Lake Michele,15.23148148148148,0.92625,medio
+352,79,2024-02-07,2.54,24.0,Severo,In morning until top.,Mark Harrison,20,F,South Matthew,17.142857142857142,0.6337499999999999,bajo
+353,14,2023-12-09,5.5,25.8,Leve,Talk also machine mission majority conference.,Stephen Ramos,43,F,Tylerberg,13.870967741935486,1.1825,alto
+354,200,2025-03-15,3.46,17.4,Moderado,Pressure decision beautiful money.,Eileen Cross,41,M,Fieldshaven,9.56043956043956,0.5774999999999999,bajo
+355,134,2024-10-10,4.9,15.4,Moderado,Current kid road relate understand specific.,Melissa Jones,58,M,New Keith,7.12962962962963,0.7175,bajo
+356,71,2024-09-12,2.12,29.5,Moderado,Order list environment toward name remain me tough.,Angela Greer,35,F,Davidview,17.352941176470587,0.7825000000000001,bajo
+357,10,2025-07-03,3.34,31.3,Leve,Shake guess next old reduce Mr.,Daniel Lutz,30,F,Brianton,19.5625,1.08625,medio
+358,182,2023-12-17,4.56,10.0,Severo,Coach should perhaps music like.,Shelly Clark,56,M,Jordanberg,4.716981132075471,0.42625,bajo
+359,27,2024-01-22,5.61,16.3,Leve,Bill defense firm.,Sherry Perez,46,M,Josephfurt,8.489583333333334,0.8687499999999999,medio
+360,24,2025-01-05,4.45,34.9,Moderado,Sit wrong training send three alone until.,Shawna Perez,31,M,Lake Alan,21.54320987654321,1.39375,alto
+361,7,2025-06-12,7.8,13.6,Moderado,Good lot wind particularly majority.,Taylor Boyd,38,F,East Kathleenville,7.727272727272727,1.11625,medio
+362,194,2025-09-17,4.76,27.6,Leve,Kitchen drop plan politics result rest.,Samantha Stephens,36,F,Chaseberg,16.046511627906977,1.14625,medio
+363,145,2025-10-01,5.73,30.6,Severo,Return station expect station current send kid standard.,John King,47,M,Kimberlyhaven,15.77319587628866,1.41625,alto
+364,23,2025-11-21,3.32,30.7,Moderado,Very major put tell behind.,Thomas Combs,52,F,Crystalborough,15.049019607843137,1.05125,medio
+365,34,2023-12-24,7.36,23.6,Moderado,Subject financial it which decide.,Allison Malone,40,M,South Christina,13.11111111111111,1.4049999999999998,alto
+366,177,2025-01-27,6.95,22.1,Leve,Anything pressure area may write while read student.,John Schmidt,36,M,North Thomastown,12.848837209302326,1.2887499999999998,alto
+367,111,2025-04-07,2.88,16.1,Moderado,Expect film talk green year off ever bank.,Austin Perez,20,F,North Hayden,11.500000000000002,0.42000000000000004,bajo
+368,102,2023-12-24,6.03,33.1,Leve,Work move reality why.,Geoffrey Mitchell,52,F,Port Justintown,16.225490196078432,1.5750000000000002,alto
+369,33,2025-09-23,2.11,21.4,Moderado,Prevent if writer threat cup relate.,Laura Walker,26,M,Ronaldburgh,14.078947368421051,0.49,bajo
+370,37,2024-12-22,3.66,10.1,Leve,Control answer only actually choice.,Melanie Fletcher,37,M,Leeburgh,5.804597701149425,0.3,bajo
+371,35,2023-11-22,4.13,14.6,Severo,Build involve alone training.,Kevin Lopez,28,F,Mcgeemouth,9.358974358974358,0.54125,bajo
+372,198,2025-09-02,2.75,15.1,Leve,Contain environment since edge tree wish friend audience.,Laura Deleon,53,M,East Timothymouth,7.330097087378641,0.35250000000000004,bajo
+373,154,2025-02-09,3.94,14.3,Severo,Teacher concern dog push.,Robin Harding,20,F,East Karen,10.214285714285715,0.48750000000000004,bajo
+374,167,2024-02-14,2.92,27.7,Moderado,Court song record sister ask body.,Annette Myers,34,M,Smithhaven,16.488095238095237,0.855,medio
+375,96,2024-09-23,6.06,33.5,Moderado,It read usually idea sound security.,Caitlyn Andersen,47,F,West Lisa,17.2680412371134,1.59375,alto
+376,66,2025-03-18,2.66,30.7,Severo,Store reach law.,Patricia Blevins,27,M,West Lori,19.935064935064933,0.9249999999999999,medio
+377,47,2025-08-30,2.12,23.8,Leve,Offer into yet film.,Kenneth Allen,27,F,New Joshua,15.454545454545455,0.5637500000000001,bajo
+378,183,2025-07-13,2.69,15.8,Leve,Book third movie four single.,Drew Lopez,51,F,North Robert,7.821782178217822,0.37124999999999997,bajo
+379,23,2025-06-03,2.59,23.3,Leve,Answer heart meet campaign home.,Thomas Combs,52,F,Crystalborough,11.42156862745098,0.6075,bajo
+380,1,2024-11-22,5.97,16.0,Moderado,Clear successful training beyond own continue whole.,Jennifer Krause,58,M,Cassandrafurt,7.4074074074074066,0.9112499999999999,medio
+381,31,2025-01-15,4.24,19.9,Moderado,Million lose story.,James Day,22,F,Lake Johnborough,13.819444444444445,0.7849999999999999,bajo
+382,95,2024-11-26,2.23,24.1,Severo,Energy if money medical able.,Kimberly Dalton DDS,60,F,South Russell,10.954545454545455,0.6025,bajo
+383,94,2024-06-01,3.28,35.0,Moderado,Expect research according near last anything blue.,Bradley Berger,58,F,Howardside,16.203703703703702,1.2237500000000001,alto
+384,135,2025-10-28,2.27,32.7,Moderado,Discussion art growth investment air.,Benjamin Johnson,34,F,North Matthew,19.464285714285715,0.9475,medio
+385,125,2024-09-14,7.39,23.8,Leve,Way church husband agree.,Robert Mclaughlin,45,F,Michaelfurt,12.526315789473685,1.4175,alto
+386,199,2024-10-14,5.29,35.0,Leve,Southern investment over year explain enter.,Debra Andrews,25,F,New Tanya,23.333333333333332,1.5462500000000001,alto
+387,73,2024-07-20,3.21,23.3,Leve,Country floor rule popular.,Dr. Joseph Walker MD,43,F,Justinmouth,12.526881720430108,0.73375,bajo
+388,106,2024-03-07,6.13,20.2,Leve,Institution also understand.,David Foster,54,F,North Williammouth,9.711538461538462,1.11375,medio
+389,42,2024-03-10,4.91,19.4,Leve,Hold fund member will series five.,Sydney Gomez,45,F,Ramirezfort,10.210526315789473,0.8925,medio
+390,82,2024-07-11,7.1,33.5,Leve,Some step on help.,Ms. Michelle Crawford,28,F,Kathyshire,21.474358974358974,1.75875,alto
+391,112,2025-06-28,2.44,13.7,Severo,Law can sport culture help approach.,Cindy Smith,54,F,Westton,6.586538461538461,0.22625,bajo
+392,51,2024-08-13,4.53,32.3,Leve,Thus them space leg.,Jeffrey Ramirez,55,F,Joshuatown,15.38095238095238,1.3025,alto
+393,132,2024-01-10,4.01,19.7,Moderado,Step claim benefit upon possible.,Lynn Wilson,56,F,Calderonport,9.292452830188678,0.7525,bajo
+394,180,2024-07-15,7.91,17.2,Moderado,Vote might claim.,Jason Alexander,47,M,New Jay,8.8659793814433,1.2925,alto
+395,181,2024-05-15,3.96,15.4,Leve,Wait art able very agree scientist sea none.,Michael Ford,42,F,Lake Donald,8.369565217391305,0.55625,bajo
+396,90,2024-11-25,7.73,16.3,Leve,Ball push dog candidate your owner front.,Brooke Hatfield MD,54,M,New Seanmouth,7.836538461538462,1.22125,alto
+397,158,2023-12-27,4.44,33.8,Moderado,Enter economic mother arm maintain activity brother.,Madeline Wood,22,F,Coleville,23.47222222222222,1.345,alto
+398,122,2024-11-10,6.67,24.8,Leve,Drug hit customer recently blue.,Glenda Fowler,28,F,North Jason,15.897435897435898,1.34875,alto
+399,45,2025-02-09,6.63,15.2,Leve,Huge idea fall room interesting.,Patrick Kelly,47,F,Anthonyberg,7.835051546391752,0.985,medio
+400,98,2025-11-20,3.95,28.2,Leve,Agent study environment model at local population good.,David Fisher,28,M,Jasonville,18.076923076923077,1.0175,medio

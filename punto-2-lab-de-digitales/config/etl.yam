@@ -1,0 +1,24 @@
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+files:
+  pacientes: "pacientes.csv"
+  evaluaciones: "evaluaciones_clinicas.csv"
+  ergonomia: "ergonomia.csv"
+  emg: "emg.csv"
+  hábitos: "habitos.csv"
+quality:
+  ranges:
+    edad: [18, 80]
+    latencia_ms: [1.0, 10.0]
+    velocidad_conducción_m_s: [30, 70]
+  allow_missing_pct:
+    emg: 0.15
+features:
+  ier_weights:
+    fuerza_promedio: 1.0
+    repetitividad: 1.0
+    pausas_por_hora: 1.0
+risk_thresholds:
+  low: 0.33
+  medium: 0.66
